@@ -1,0 +1,60 @@
+
+                                    <div class="panel-group" id="display" bindonce>
+
+                                        <div                                                ng-repeat="r in items.referenzdaten.objekte.objekt | filter:FilterService.activeFilters | TextSearch:FilterService.searchString | ArbeitsgattungenSearch:FilterService.arbeitsgattung | BaujahrSearch:FilterService.baujahr">
+                                            <div class="panel panel-default">
+                                                <div class="objekte">
+                                                    <div class="objektbild">
+                                                        <img ng-show="r.bilder.objektbilder.bild[0].url" ng-src="//{{r.bilder.objektbilder.bild[0].url}}" alt="{{r.titel}}, {{r.strasse}}, {{r.plz}} {{r.ort}}" class="objektbild">
+                                                    </div>
+                                                    <div class="objektdaten">
+                                                        <span class="objekttitel" bo-text="r.titel"></span><br><span bo-text="r.strasse"></span><br><span bo-text="r.plz"></span> <span bo-text="r.ort"></span>
+                                                    </div>
+                                                    <div class="objekteigenschaften"><span bo-text="r.baujahr"></span><br><span bo-text="r.bauart"></span><br><span bo-text="r.bautyp"></span></div>
+                                                    <div class="arbeitsgattungen"><span ng-repeat="ag in r.arbeitsgattungen.arbeitsgattung track by $index"><span bo-text="ag"></span>{{$last ? '' : ', '}}</span><br>
+                                                        <div id="detailbutton">
+                                                            <a class="collapsed" data-toggle="collapse" data-parent="#display" data-target="#{{r.id}}">Details einblenden</a></div>
+                                                    </div>
+                                                </div>
+                                                <div class="div_details_display panel-collapse collapse" id="{{r.id}}">
+                                                    <div>
+                                                        <div id="detail_firmen">
+
+                                                            <div id="detail_kunde">
+                                                                <div id="detail_kunden_arbeitsgattung"><span        ng-repeat="ag in r.arbeitsgattungen.arbeitsgattung track by $index"><span bo-text="ag"></span>{{$last ? '' : ', '}}</span></div>
+                                                                <div id="detail_kunden_firma">Inag-Nievergelt AG</div>
+                                                            </div>
+
+                                                            <div class="detail_gruppentitel" ng-show="r.firmen.bauherren.firma.name">Bauherr</div>
+                                                            <div class="detail_bauherr" ng-show="r.firmen.bauherren.firma.name">
+                                                                <div class="detail_arbeitsgattung"><span bo-text="r.firmen.bauherren.firma.arbeitsgattung"></span></div>
+                                                                <div class="detail_firma"><span bo-text="r.firmen.bauherren.firma.name"></span></div>
+                                                            </div>
+
+                                                            <div class="detail_gruppentitel" ng-show="r.firmen.fachplaner.firma.length">Architekten und Fachplaner</div>
+                                                            <div                                    ng-repeat="f in r.firmen.fachplaner.firma track by $index"  ng-show="r.firmen.fachplaner.firma.length>0">
+                                                                <div class="zeile_fachplaner">
+                                                                    <div class="detail_arbeitsgattung"><span bo-text="f.arbeitsgattung"></span></div>
+                                                                    <div class="detail_firma"><span bo-text="f.name"></span></div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div id="detail_projektbeschreibung">
+                                                            <div class="detail_beschreibungstitel">Objektbeschreibung:</div>
+                                                            <div id="detail_detailbeschreibung"><span bo-text="r.beschreibungen.objektbeschreibung"></span></div>
+                                                        </div>
+                                                        <div id="vorschaubilder">
+                                                            <img  style="width:45px;"   ng-repeat="bild in r.bilder.objektbilder.bild" ng-show="bild.url" ng-src="//{{bild.url}}" bo-alt="r.titel+', '+r.strasse+', '+r.plz+' '+r.ort"  onmouseover="javascript:toggle_hauptbild(this)" class="vorschaubild" firma="" hauptbild="/projekte/0/0/7/1/7181/bilder/resized/w720-h480-7181_1375861612_neu-und-umbau-wohnhaus-jpg.jpg" pid="7181">
+                                                        </div>
+                                                        <div id="hauptbilder">
+                                                            <img   ng-show="r.bilder.objektbilder.bild[0].url" ng-src="//{{r.bilder.objektbilder.bild[0].url}}" bo-alt="r.titel+', '+r.strasse+', '+r.plz+' '+r.ort" class="hauptbild_7181 hauptbild">
+                                                        </div>
+                                                        <div id="detail_dokumente"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>

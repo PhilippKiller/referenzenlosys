@@ -1,0 +1,60 @@
+
+                                    <div class="panel-group" id="display"    infinite-scroll="myPagingFunction()" infinite-scroll-distance="1" >
+
+                                        <div                                              ng-repeat="r in items.referenzdaten.objekte.objekt | filter:filterService.filters.activeFilters | TextSearch:filterService.filters.searchString | ArbeitsgattungenSearch:filterService.filters.arbeitsgattung | BaujahrSearch:filterService.filters.baujahr">
+                                            <div class="panel panel-default">
+                                                <div class="objekte">
+                                                    <div class="objektbild">
+                                                        <img ng-src="//{{r.bilder.objektbilder.bild[0].url_thumbnail}}" alt="{{r.titel}}, {{r.strasse}}, {{r.plz}} {{r.ort}}" class="objektbild">
+                                                    </div>
+                                                    <div class="objektdaten">
+                                                        <span class="objekttitel">{{r.titel}}</span><br>{{r.strasse}}<br>{{r.plz}} {{r.ort}}
+                                                    </div>
+                                                    <div class="objekteigenschaften">{{r.baujahr}}<br>{{r.bauart}}<br>{{r.bautyp}}</div>
+                                                    <div class="arbeitsgattungen"><span ng-repeat="ag in r.arbeitsgattungen.arbeitsgattung track by $index">{{ag}}{{$last ? '' : ', '}}</span><br>
+                                                        <div id="detailbutton">
+                                                            <a class="collapsed" data-toggle="collapse" data-parent="#display" data-target="#{{r.id}}">Details einblenden</a></div>
+                                                    </div>
+                                                </div>
+                                                <div class="div_details_display panel-collapse collapse" id="{{r.id}}">
+                                                    <div>
+                                                        <div id="detail_firmen">
+
+                                                            <div id="detail_kunde">
+                                                                <div id="detail_kunden_arbeitsgattung"><span        ng-repeat="ag in r.arbeitsgattungen.arbeitsgattung track by $index">{{ag}}{{$last ? '' : ', '}}</span></div>
+                                                                <div id="detail_kunden_firma">Inag-Nievergelt AG</div>
+                                                            </div>
+
+                                                            <div class="detail_gruppentitel" ng-show="r.firmen.bauherren.firma.name">Bauherr</div>
+                                                            <div class="detail_bauherr" ng-show="r.firmen.bauherren.firma.name">
+                                                                <div class="detail_arbeitsgattung">{{r.firmen.bauherren.firma.arbeitsgattung}}</div>
+                                                                <div class="detail_firma">{{r.firmen.bauherren.firma.name}}</div>
+                                                            </div>
+
+                                                            <div class="detail_gruppentitel" ng-show="r.firmen.fachplaner.firma.length">Architekten und Fachplaner</div>
+                                                            <div                                    ng-repeat="f in r.firmen.fachplaner.firma track by $index"  ng-show="r.firmen.fachplaner.firma.length>0">
+                                                                <div class="zeile_fachplaner">
+                                                                    <div class="detail_arbeitsgattung">{{f.arbeitsgattung}}</div>
+                                                                    <div class="detail_firma">{{f.name}}</div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div id="detail_projektbeschreibung">
+                                                            <div class="detail_beschreibungstitel">Objektbeschreibung:</div>
+                                                            <div id="detail_detailbeschreibung">{{r.beschreibungen.objektbeschreibung}}</div>
+                                                        </div>
+                                                        <div id="vorschaubilder" class="vorschaubilder">
+                                                            <img wm-image-switcher wm-image-switcher-image="http://{{bild.url}}" ng-repeat="bild in r.bilder.objektbilder.bild" style="width:45px;"   ng-show="bild.url_thumbnail" ng-src="http://{{bild.url_thumbnail}}" alt="{{r.titel}}, {{r.strasse}}, {{r.plz}} {{r.ort}}">
+                                                        </div>
+                                                        <div id="hauptbilder" class="hauptbilder">
+                                                            <img   ng-show="r.bilder.objektbilder.bild[0].url" ng-src="http://{{r.bilder.objektbilder.bild[0].url}}" alt="{{r.titel}}, {{r.strasse}}, {{r.plz}} {{r.ort}}" class="hauptbild">
+                                                        </div>
+                                                        <div id="detail_dokumente"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>

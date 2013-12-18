@@ -1,0 +1,2057 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Share+Tech);
+
+/*---------------------------------------------------------------------------
+	GENERAL
+---------------------------------------------------------------------------*/
+body {
+  color: #5a5a5a;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 27.0000001px;
+  background-color: #323232;
+}
+@media (max-width: 1199px) {
+  body {
+    font-size: 16.0000005px;
+    line-height: 24.999996px;
+  }
+}
+@media (max-width: 991px) {
+  body {
+    background-image: url("http://inag.ch/new/screendesign/images/body-bg-sm-xs.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 15.000001000000001px;
+    line-height: 24.999996px;
+  }
+}
+@media (max-width: 640px) {
+  body {
+    background-image: none;
+    font-size: 16.0000005px;
+    line-height: 24.999996px;
+  }
+}
+[class*="col-"] {
+  background-color: transparent;
+}
+.spacer-bottom {
+  margin-bottom: 22.000004999999998px;
+}
+@media (max-width: 640px) {
+  .spacer-bottom {
+    margin-bottom: 0;
+  }
+}
+h1 {
+  margin: 0 0 10px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 43.999995px;
+  line-height: 52.000008px;
+  color: #5a5a5a;
+}
+.orangebox h1 {
+  margin: 0;
+}
+h2 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 26.999995000000002px;
+  color: #5a5a5a;
+  text-transform: uppercase;
+}
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 26.999995000000002px;
+  color: #5a5a5a;
+}
+@media (max-width: 1199px) {
+  h1 {
+    font-size: 35.999998999999995px;
+    line-height: 43.999995px;
+  }
+  h2 {
+    font-size: 16.0000005px;
+    line-height: 24.000004999999998px;
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 16.0000005px;
+    line-height: 24.000004999999998px;
+  }
+}
+@media (max-width: 991px) {
+  h1 {
+    font-size: 35.999998999999995px;
+    line-height: 45.000003px;
+  }
+  h2 {
+    font-size: 16.0000005px;
+    line-height: 24.000004999999998px;
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 16.0000005px;
+    line-height: 24.000004999999998px;
+  }
+}
+@media (max-width: 640px) {
+  h1 {
+    font-size: 24.000004999999998px;
+    line-height: 32.000001px;
+  }
+  h2 {
+    font-size: 16.0000005px;
+    line-height: 24.000004999999998px;
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 16.0000005px;
+    line-height: 24.000004999999998px;
+  }
+}
+p {
+  margin-bottom: 15px;
+}
+@media (max-width: 640px) {
+  p {
+    margin-bottom: 10px;
+  }
+}
+p:last-of-type {
+  margin-bottom: 0;
+}
+a {
+  color: #ff8000;
+  text-decoration: none;
+  border: 0 none;
+}
+a:hover {
+  color: #ff8000;
+  text-decoration: underline;
+}
+h1 > a:hover,
+h2 > a:hover {
+  text-decoration: none;
+}
+.orange {
+  color: #ff8000;
+}
+img.full {
+  width: 100%;
+  height: auto;
+}
+*::-moz-placeholder {
+  color: #c8c8c8;
+}
+/* =============================================================================================
+	STYLES FOR EACH CONTAINER
+================================================================================================ */
+/* ------------------------------------------ header ------------------------------------------- */
+header {
+  width: 100%;
+  height: 151px;
+  padding-top: 15px;
+  overflow: visible;
+  background-color: #323232;
+  box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.3);
+}
+@media (max-width: 991px) {
+  header {
+    padding-top: 15px;
+    height: 136px;
+  }
+}
+@media (max-width: 640px) {
+  header {
+    padding-top: 5px;
+    height: 80px;
+  }
+  header .smartlogo {
+    margin-left: 5px;
+  }
+}
+.navbar {
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+  min-height: inherit;
+  position: relative;
+  z-index: 1000;
+}
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+/* ----------------- change mobile-navigation / desktop-navigation ------------------------ */
+.mobile-navigation {
+  display: none;
+}
+@media (max-width: 640px) {
+  .mobile-navigation {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #323232;
+    border-radius: 5px;
+  }
+  .mobile-navigation .col-xs-12 {
+    float: none;
+    margin-left: 0;
+    min-height: 1px;
+    position: relative;
+  }
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    border: 0 none;
+    border-color: #323232;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .navbar-collapse {
+    border: 0 none;
+    box-shadow: none;
+    max-height: none;
+    overflow-x: hidden;
+    padding-left: 20px;
+    padding-right: 0;
+  }
+  .desktop-navigation {
+    display: none;
+  }
+}
+.navbar-header a.smartlogo {
+  display: none;
+}
+@media (max-width: 640px) {
+  .navbar-header button {
+    margin-top: 15px;
+  }
+  .navbar-header a.smartlogo {
+    display: inline-block;
+    float: left;
+  }
+}
+/* =============================================================================================
+	ALL NAVIGATIONS
+================================================================================================ */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+  background-color: #323232;
+}
+/* ----------------------------------------- top right ----------------------------------------- */
+.top-menu .navbar-nav {
+  float: right;
+  padding-bottom: 85px;
+  padding-right: 64px;
+}
+.top-menu .navbar-nav li {
+  background-color: transparent;
+  float: left;
+}
+.top-menu .navbar-nav li a {
+  font-size: 17px;
+  color: #c8c8c8;
+  padding: 0;
+  margin: 0 0 0 30px;
+  display: block;
+  line-height: 20.000007px;
+  position: relative;
+}
+.top-menu .navbar-nav li a:hover,
+.top-menu .navbar-nav li a:focus {
+  color: #ff8000;
+  background-color: transparent;
+}
+.top-menu .navbar-nav li.active a,
+.top-menu .navbar-nav li.active a:hover,
+.top-menu .navbar-nav li.active a:focus {
+  background-color: #323232;
+  color: #ff8000;
+}
+@media (max-width: 991px) {
+  .top-menu .navbar-nav {
+    padding-bottom: 70px;
+  }
+  .top-menu .navbar-nav li a {
+    font-size: 16.0000005px;
+  }
+}
+@media (max-width: 640px) {
+  .top-menu {
+    background-color: #323232;
+    padding: 0 30px 15px;
+    margin-bottom: 0;
+    border-radius: 5px;
+  }
+  .top-menu .navbar-nav {
+    float: none;
+    padding: 0;
+    margin: 0;
+  }
+  .top-menu .navbar-nav li {
+    float: none;
+    background-color: #323232;
+    border-bottom: 1px solid #c8c8c8;
+  }
+  .top-menu .navbar-nav li a {
+    font-size: 18.000008px;
+    color: #c8c8c8;
+    padding: 9px 20px;
+    margin: 0;
+    display: block;
+    line-height: 20.000007px;
+    position: relative;
+  }
+  .top-menu .navbar-nav li a:hover,
+  .top-menu .navbar-nav li a:focus {
+    color: #ff8000;
+    background-color: #5a5a5a;
+  }
+  .top-menu .navbar-nav li.active a,
+  .top-menu .navbar-nav li.active a:hover,
+  .top-menu .navbar-nav li.active a:focus {
+    background-color: #323232;
+    color: #ff8000;
+  }
+}
+/* ------------------------------------- search form top right ------------------------------------- */
+.navbar-form {
+  position: absolute;
+  right: 0;
+  top: -4px;
+  z-index: 10;
+  padding: 0;
+}
+.top-menu form {
+  margin: 0;
+}
+.top-menu form label {
+  display: static;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+.search-submit {
+  display: none;
+}
+.search-field {
+  background-color: transparent;
+  background-image: url("http://inag.ch/new/screendesign/images/search-icon.png");
+  background-position: 0 center;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  border: medium none;
+  cursor: pointer;
+  height: 24px;
+  margin: 0;
+  padding: 0 0 0 34px;
+  position: relative;
+  transition: width 400ms ease 0s, background 400ms ease 0s;
+  width: 0;
+}
+.search-field:hover {
+  background-image: url("http://inag.ch/new/screendesign/images/search-icon-hover.png");
+}
+.search-field:focus {
+  background-color: #ffffff;
+  border: 1px solid #c8c8c8;
+  cursor: text;
+  outline: 0 none;
+  padding: 0 0 0 34px;
+  width: 230px;
+}
+@media (max-width: 1199px) {
+  .navbar-form {
+    top: -20px;
+    width: 24px;
+  }
+  .top-menu form {
+    margin: 0;
+  }
+  .top-menu form label {
+    display: static;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+  .search-submit {
+    display: none !important;
+  }
+  .search-field {
+    padding: 0 0 0 24px;
+    position: absolute;
+    width: 0;
+  }
+  .search-field {
+    padding: 0 0 0 24px;
+    position: absolute;
+    width: 0;
+  }
+  .search-field:focus {
+    padding: 0 0 0 24px;
+    right: 0;
+    width: 200px;
+  }
+}
+@media (max-width: 991px) {
+  .navbar-form {
+    top: -20px;
+    width: 24px;
+  }
+  .top-menu form {
+    margin: 0;
+  }
+  .top-menu form label {
+    display: static;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+  .search-submit {
+    display: none !important;
+  }
+  .search-field {
+    padding: 0 0 0 24px;
+    position: absolute;
+    width: 0;
+  }
+  .search-field:focus {
+    padding: 0 0 0 24px;
+    right: 0;
+    width: 200px;
+  }
+}
+@media (max-width: 640px) {
+  .navbar-form {
+    position: static;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    box-shadow: none;
+    padding: 9px 0 9px 21px;
+  }
+  .top-menu form {
+    margin: 0;
+  }
+  .top-menu form label {
+    display: static;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+  .search-submit {
+    display: none;
+  }
+  .search-field,
+  .search-field:focus {
+    background-color: #ffffff;
+    background-image: url("http://inag.ch/new/screendesign/images/search-icon-mobile.png");
+    background-position: 0 center;
+    background-repeat: no-repeat;
+    background-size: 24px 24px;
+    border: 1px solid #c8c8c8;
+    cursor: text;
+    outline: 0 none;
+    height: 30px;
+    margin: 0;
+    padding: 0 0 0 32px;
+    position: relative;
+    transition: none;
+    width: 236px;
+  }
+}
+/* ---------------------------------------- main navigation ---------------------------------------- */
+.main-navigation .navbar-nav li {
+  background-color: transparent;
+  height: 30px;
+  overflow: hidden;
+  float: left;
+}
+.main-navigation .navbar-nav li a {
+  color: #ffffff;
+  padding: 3px 15px;
+  margin-right: 1px;
+  font-size: 18.999999000000003px;
+  text-transform: uppercase;
+  display: block;
+  line-height: 24.000004999999998px;
+  position: relative;
+}
+.main-navigation .navbar-nav li a.active,
+.main-navigation .navbar-nav li a:hover {
+  color: #5a5a5a;
+  background-color: #ffffff;
+}
+.main-navigation .navbar-nav li.active a,
+.main-navigation .navbar-nav li.active a:hover,
+.main-navigation .navbar-nav li.active a:focus {
+  background-color: #ffffff;
+  color: #5a5a5a;
+}
+.main-navigation .navbar-nav li:hover,
+.main-navigation .navbar-nav li.active {
+  overflow: visible;
+}
+@media (max-width: 1199px) {
+  .main-navigation .navbar-nav li a {
+    padding: 3px 12px;
+    font-size: 17px;
+  }
+}
+@media (max-width: 640px) {
+  .main-navigation {
+    border-radius: 5px;
+    margin-bottom: 15px;
+    background-color: #323232;
+    padding: 5px;
+  }
+  .main-navigation .navbar-nav {
+    margin: 0;
+    border-radius: 5px;
+  }
+  .main-navigation .navbar-nav li {
+    float: none;
+    background-color: #323232;
+    height: 42px;
+    border-bottom: 1px solid #ffffff;
+    overflow: hidden;
+  }
+  .main-navigation .navbar-nav li a {
+    color: #ffffff;
+    padding: 9px 15px;
+    margin: 0 auto;
+    font-size: 18.999999000000003px;
+    text-transform: uppercase;
+    display: block;
+    line-height: 24.000004999999998px;
+    position: relative;
+  }
+  .main-navigation .navbar-nav li a.active,
+  .main-navigation .navbar-nav li a:hover {
+    color: #5a5a5a;
+    background-color: #ffffff;
+  }
+  .main-navigation .navbar-nav li:hover {
+    border-bottom: 1px solid #5a5a5a;
+  }
+  .main-navigation .navbar-nav li.active a,
+  .main-navigation .navbar-nav li.active a:hover,
+  .main-navigation .navbar-nav li.active a:focus {
+    background-color: #ffffff;
+    color: #5a5a5a;
+  }
+  .main-navigation .navbar-nav li.active {
+    height: auto;
+    overflow: visible;
+  }
+}
+/* ----------------------------------- sub-menu ------------------------------------- */
+.content {
+  padding-top: 30px;
+}
+.content .navbar-default {
+  margin-bottom: 15px;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.sub-menu .navbar-nav {
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.sub-menu .navbar-nav li {
+  background-color: transparent;
+  height: 30px;
+  overflow: hidden;
+}
+.sub-menu .navbar-nav li a {
+  font-size: 18.000008px;
+  color: #5a5a5a;
+  padding: 3px 15px;
+  display: block;
+  line-height: 24.000004999999998px;
+  position: relative;
+}
+.sub-menu .navbar-nav li a:hover,
+.sub-menu .navbar-nav li a:focus {
+  background-color: #ffffff;
+  color: #ff8000;
+}
+.sub-menu .navbar-nav li.active a,
+.sub-menu .navbar-nav li.active a:hover,
+.sub-menu .navbar-nav li.active a:focus {
+  background-color: #ffffff;
+  color: #ff8000;
+}
+.sub-menu .navbar-nav li:hover,
+.sub-menu .navbar-nav li.active {
+  overflow: visible;
+}
+@media (max-width: 1199px) {
+  .content .navbar-default {
+    margin-top: 0;
+    border-radius: 4px;
+  }
+  .sub-menu .navbar-nav {
+    border-radius: 4px;
+  }
+  .sub-menu .navbar-nav li a {
+    padding: 3px 12px;
+    font-size: 16.0000005px;
+  }
+}
+@media (max-width: 640px) {
+  .content .navbar-default {
+    display: none;
+  }
+  .main-navigation .navbar-nav li.dropdown {
+    background-color: #323232 !important;
+  }
+  .main-navigation .navbar-nav li.dropdown a img {
+    float: right;
+    padding-top: 3px;
+  }
+  .main-navigation .navbar-nav li.dropdown a img.down {
+    display: block;
+  }
+  .main-navigation .navbar-nav li.dropdown a img.up {
+    display: none;
+  }
+  .main-navigation .navbar-nav li.open {
+    background-color: #ffffff;
+  }
+  .main-navigation .navbar-nav li.open a img.down {
+    display: none;
+  }
+  .main-navigation .navbar-nav li.open a img.up {
+    display: block;
+  }
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu {
+    position: absolute;
+    z-index: 12;
+    top: 42px;
+    left: 0;
+    width: 100%;
+    padding-bottom: 25px;
+    overflow: hidden;
+    border-radius: 0;
+    background-color: #ffffff;
+    border-top: 1px solid #323232;
+  }
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li {
+    height: auto;
+    background-color: #ffffff;
+    padding: 0 15px 0 30px;
+    overflow: visible;
+    border-bottom: 0 none;
+  }
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li a {
+    font-size: 18.999999000000003px;
+    color: #5a5a5a;
+    padding: 5px 15px 5px 0;
+    display: block;
+    line-height: 24.000004999999998px;
+    position: relative;
+    text-transform: none;
+    border-top: 0 none;
+    border-bottom: 1px solid #323232;
+  }
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li a:hover,
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li a:focus {
+    color: #ff8000;
+  }
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li.active a,
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li.active a:hover,
+  .main-navigation .navbar-nav li.open .navbar-nav.sub-menu li.active a:focus {
+    background-color: #ffffff;
+    color: #ff8000;
+  }
+  .main-navigation .navbar-default .navbar-nav > .open > a,
+  .main-navigation .navbar-default .navbar-nav > .open > a:hover,
+  .main-navigation .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #ffffff;
+    color: #5a5a5a;
+    border: 0;
+  }
+  .main-navigation .nav .open > a,
+  .main-navigation .nav .open > a:hover,
+  .main-navigation .nav .open > a:focus {
+    background-color: #ffffff;
+    color: #5a5a5a;
+    border: 0;
+  }
+}
+.navbar-nav .open .dropdown-menu {
+  background-color: #323232;
+  border: 0 none;
+  border-radius: 0;
+  box-shadow: none;
+  float: none;
+  margin-top: 0;
+}
+/*---------------------------------------------------------------------------
+	CONTENT
+---------------------------------------------------------------------------*/
+/* ----------------- normbox --- orangebox -------------------- */
+.normbox,
+.orangebox {
+  background-color: #ffffff;
+  padding: 21.99999px 30px 30px 30px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+@media (max-width: 1199px) {
+  .normbox,
+  .orangebox {
+    padding: 15px 21px 21px 21px;
+  }
+}
+@media (max-width: 991px) {
+  .normbox,
+  .orangebox {
+    padding: 15px;
+  }
+}
+@media (max-width: 640px) {
+  .normbox,
+  .orangebox {
+    padding: 12px;
+    margin-bottom: 15px;
+  }
+}
+.orangebox {
+  background-color: #ff8000;
+}
+/* ------------------------------------------------------------------------------------------------
+h1 a i	{
+	float: right;
+	color: @c2;
+	font-size: (@f1s * 4.411765);
+}
+@media (max-width: @screen-md-max) {
+	h1 a i	{
+		font-size: (@f1s * 4);
+	}
+}
+@media (max-width: @screen-sm-max) {
+	h1 a i	{
+		font-size: (@f1s * 3.529412);
+	}
+}
+@media (max-width: @screen-xs-max) {
+	h1 a i	{
+		font-size: (@f1s * 2.588235);
+	}
+}
+------------------------------------------------------------------------------------------------- */
+/* ------------------------- startseite ------------------------------ */
+.start {
+  padding-bottom: 120px;
+}
+.start .startbox {
+  padding: 15px;
+  margin: 0;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+.start .startbox h1 {
+  font-size: 85px;
+  line-height: 107.99999700000001px;
+  background-image: url("http://inag.ch/new/screendesign/images/go-startseite-gr.png");
+  background-position: 15px center;
+  background-repeat: no-repeat;
+  background-size: 40px 64px;
+  color: #ffffff;
+  margin: 0;
+  padding-left: 120px;
+}
+.start .startbox h2 a.goa {
+  display: block;
+  padding: 0 0 15px 15px;
+}
+.start .startbox h2 a.gob {
+  display: none;
+}
+@media (max-width: 1199px) {
+  .start {
+    padding-bottom: 60px;
+  }
+  .start .startbox h1 {
+    font-size: 68px;
+    line-height: 88.00000700000001px;
+  }
+}
+@media (max-width: 991px) {
+  .start {
+    padding-bottom: 60px;
+  }
+  .start .startbox h1 {
+    font-size: 68px;
+    line-height: 88.00000700000001px;
+  }
+}
+@media (max-width: 640px) {
+  .start {
+    padding-bottom: 15px;
+  }
+  .start .startbox {
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  .start .startbox h1 {
+    font-size: 34px;
+    line-height: 43.999995px;
+    background-image: url("http://inag.ch/new/screendesign/images/go-startseite-gr-smart.png");
+    background-position: 15px center;
+    background-repeat: no-repeat;
+    background-size: 23px 36px;
+    padding-left: 60px;
+  }
+  .start .startbox h2 a.goa {
+    display: none;
+  }
+  .start .startbox h2 a.gob {
+    display: block;
+    padding: 0 0 15px 15px;
+  }
+  .start .swipeshow {
+    margin-bottom: 15px;
+  }
+  .start .orangebox {
+    margin-bottom: 15px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  }
+}
+/* -------------------------------- pages --- box-1 ---------------------------------- */
+.box-1 {
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+.box-1 img {
+  width: 100%;
+  border-radius: 5px;
+}
+.box-1 p {
+  margin-bottom: 0;
+}
+.box-1 .box-bottom {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 15px;
+  font-size: 13.999993px;
+  line-height: 20.000007px;
+  border-radius: 0 0 5px 5px;
+}
+@media (max-width: 1199px) {
+  .box-1 {
+    border-radius: 4px;
+  }
+  .box-1 .box-bottom {
+    padding: 10px;
+    border-radius: 0 0 4px 4px;
+  }
+}
+@media (max-width: 640px) {
+  .box-1 {
+    /*img[src*="empty-"]	{
+  			display: none;
+  		}*/
+  
+    border-radius: 3px;
+    margin-bottom: 15px;
+  }
+  .box-1 img {
+    border-radius: 3px;
+  }
+  .box-1 .box-bottom {
+    padding: 9px;
+    border-radius: 0 0 3px 3px;
+  }
+  .box-1.empty {
+    display: none;
+  }
+}
+.contactbox {
+  padding: 15px 0;
+}
+.contactbox .godirect {
+  width: 100%;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.contactbox .godirect .bild {
+  float: left;
+  width: 12.468828%;
+  max-width: 100px;
+  padding-top: 6px;
+}
+.contactbox .godirect a.goa {
+  display: inline-block;
+  float: left;
+  padding: 6px 15px 0 30px;
+}
+.contactbox .godirect .gotxt {
+  float: right;
+  width: 77.3067332%;
+  font-size: 15.000001000000001px;
+  line-height: 20.000007px;
+}
+.contactbox .godirect .gotxt h3 {
+  margin-bottom: 15px;
+}
+@media (max-width: 1199px) {
+  .contactbox .godirect .bild {
+    width: 14.7928995%;
+    max-width: 100px;
+    padding-top: 6px;
+  }
+  .contactbox .godirect .gotxt {
+    width: 73.224852%;
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+  }
+  .contactbox .godirect .gotxt h3 {
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 640px) {
+  .contactbox .godirect {
+    width: 100%;
+    margin-bottom: 25px;
+    overflow: hidden;
+  }
+  .contactbox .godirect .bild {
+    float: left;
+    width: 100px;
+    padding-top: 0;
+  }
+  .contactbox .godirect .gotxt {
+    clear: left;
+    float: none;
+    width: 100%;
+    padding-top: 5px;
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+  }
+  .contactbox .godirect .gotxt h3 {
+    line-height: 20.000007px;
+    margin-bottom: 5px;
+  }
+}
+.sponsorbox {
+  padding: 0 0 15px 0;
+  border-top: 1px solid #5a5a5a;
+}
+.sponsorbox .sponsor {
+  width: 100%;
+  padding: 10px 0 15px 0;
+  border-bottom: 1px solid #5a5a5a;
+  overflow: hidden;
+}
+.sponsorbox .sponsor .bild {
+  float: left;
+  width: 165px;
+  padding-right: 15px;
+}
+.sponsorbox .sponsor .bild img {
+  padding-top: 5px;
+  width: 150px;
+  height: 100px;
+}
+.sponsorbox .sponsor .txt {
+  float: left;
+  width: 635px;
+}
+.sponsorbox .sponsor .txt h3 {
+  line-height: 23.999988000000002px;
+  margin-bottom: 15px;
+}
+.sponsorbox .sponsor .txt p {
+  font-size: 17px;
+  line-height: 21.999989px;
+  vertical-align: bottom;
+}
+@media (max-width: 1199px) {
+  .sponsorbox {
+    padding: 0 0 15px 0;
+  }
+  .sponsorbox .sponsor .txt {
+    float: left;
+    width: 510px;
+  }
+  .sponsorbox .sponsor .txt h3 {
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+    margin-top: 3px;
+    margin-bottom: 9px;
+  }
+  .sponsorbox .sponsor .txt p {
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+    vertical-align: bottom;
+  }
+}
+@media (max-width: 991px) {
+  .sponsorbox {
+    padding: 0 0 15px 0;
+  }
+  .sponsorbox .sponsor .txt {
+    float: left;
+    width: 510px;
+  }
+  .sponsorbox .sponsor .txt h3 {
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+    margin-top: 3px;
+    margin-bottom: 9px;
+  }
+  .sponsorbox .sponsor .txt p {
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+    vertical-align: bottom;
+  }
+}
+@media (max-width: 640px) {
+  .sponsorbox {
+    padding: 0 0 15px 0;
+  }
+  .sponsorbox .sponsor {
+    width: 100%;
+    padding: 15px 0 15px 0;
+    border-bottom: 1px solid #5a5a5a;
+    overflow: hidden;
+  }
+  .sponsorbox .sponsor .bild {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+  .sponsorbox .sponsor .bild img {
+    padding-top: 0;
+    padding-bottom: 5px;
+    width: 150px;
+    height: 100px;
+  }
+  .sponsorbox .sponsor .txt {
+    float: none;
+    width: 100%;
+  }
+  .sponsorbox .sponsor .txt h3 {
+    line-height: 23.999988000000002px;
+    margin-bottom: 5px;
+  }
+  .sponsorbox .sponsor .txt p {
+    font-size: 17px;
+    line-height: 21.999989px;
+    vertical-align: bottom;
+  }
+}
+/* ------------------------------------------------ accordeon ------------------------------------------------- */
+h1.panel-title {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 43.999995px;
+  line-height: 54.000007px;
+  color: #5a5a5a;
+}
+h1.panel-title a {
+  float: right;
+  padding-top: 60px;
+}
+h1.panel-title a.goa {
+  display: inline-block;
+}
+h1.panel-title a.goa.collapsed img.up {
+  display: none;
+}
+h1.panel-title a.goa.collapsed img.down {
+  display: block;
+}
+h1.panel-title a.goa img.up {
+  display: block;
+}
+h1.panel-title a.goa img.down {
+  display: none;
+}
+h1.panel-title a.gob {
+  display: none;
+}
+@media (max-width: 991px) {
+  h1.panel-title {
+    font-size: 34px;
+    line-height: 43.999995px;
+  }
+  h1.panel-title a {
+    padding-top: 45px;
+  }
+}
+@media (max-width: 640px) {
+  h1.panel-title {
+    font-size: 24.000004999999998px;
+    line-height: 32.000001px;
+  }
+  h1.panel-title a {
+    padding-top: 35px;
+  }
+  h1.panel-title a.gob {
+    display: inline-block;
+  }
+  h1.panel-title a.gob.collapsed img.up {
+    display: none;
+  }
+  h1.panel-title a.gob.collapsed img.down {
+    display: block;
+  }
+  h1.panel-title a.gob img.up {
+    display: block;
+  }
+  h1.panel-title a.gob img.down {
+    display: none;
+  }
+  h1.panel-title a.goa {
+    display: none;
+  }
+}
+/* ------------------------------------------ accordeon team --------------------------------------------- */
+.panel-group .panel {
+  border-radius: 5px;
+  margin-bottom: 0;
+  margin-top: 0;
+  overflow: hidden;
+}
+.panel-default {
+  border: none;
+  border-color: transparent;
+}
+.panel {
+  background-color: transparent;
+  border: 0 none;
+  border-radius: 5px;
+  margin-bottom: 21.99999px;
+}
+@media (max-width: 640px) {
+  .panel {
+    margin-bottom: 15px;
+  }
+}
+.panel-default > .panel-heading {
+  background-color: #fff;
+  border: 0 none;
+  border-color: transparent;
+  color: #5a5a5a;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  margin-bottom: 21.99999px;
+}
+.panel-group .panel-heading {
+  border-bottom: 0 none;
+  margin-bottom: 21.99999px;
+}
+@media (max-width: 640px) {
+  .panel-group .panel-heading {
+    margin-bottom: 15px;
+  }
+}
+.panel-heading {
+  border-bottom: 0 none;
+  border-radius: 5px;
+  padding: 21.99999px 30px 15px 30px;
+}
+@media (max-width: 1199px) {
+  .panel-heading {
+    padding: 15px 21px 12px 21px;
+  }
+}
+@media (max-width: 991px) {
+  .panel-heading {
+    padding: 15px;
+  }
+}
+@media (max-width: 640px) {
+  .panel-heading {
+    padding: 12px;
+    margin-bottom: 15px;
+  }
+}
+.panel-group .panel-heading + .panel-collapse .panel-body {
+  border-top: 0 none;
+}
+.panel-group .panel + .panel {
+  margin-top: 0;
+}
+.panel-body {
+  padding: 0;
+}
+/* -------------------------------------------- accordeon stellen --------------------------------------------- */
+.stellen .panel-group .panel {
+  margin-bottom: 0;
+  margin-top: 0;
+  overflow: hidden;
+}
+.stellen .panel-default {
+  border-radius: 5px;
+  border: none;
+  border-color: transparent;
+}
+.stellen .panel {
+  background-color: transparent;
+  border: 0 none;
+  border-radius: 5px;
+  margin-bottom: 21.99999px;
+}
+.stellen .panel-default > .panel-heading {
+  background-color: #fff;
+  border: 0 none;
+  border-color: transparent;
+  color: #5a5a5a;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+.stellen .panel-group .panel-heading {
+  border-bottom: 0 none;
+  margin-bottom: 21.99999px;
+}
+.stellen .panel-heading {
+  border-bottom: 0 none;
+  border-radius: 5px 5px 0 0;
+  padding: 21.99999px 30px 15px 30px;
+  margin-bottom: 0;
+}
+@media (max-width: 1199px) {
+  .stellen .panel-heading {
+    padding: 15px 21px 12px 21px;
+  }
+}
+@media (max-width: 991px) {
+  .stellen .panel-heading {
+    padding: 15px;
+  }
+}
+@media (max-width: 640px) {
+  .stellen .panel-heading {
+    padding: 12px;
+    margin-bottom: 0;
+  }
+}
+.stellen .panel-group .panel-heading + .panel-collapse .panel-body {
+  border-top: 0 none;
+}
+.stellen .panel-group .panel + .panel {
+  margin-top: 0;
+}
+.stellen .panel-body {
+  padding: 0;
+  background-color: #ffffff;
+}
+.stellen .normbox.in {
+  border-radius: 0 0 5px 5px;
+  border-top: 0 none;
+}
+/* ---------------------------------------------------- referenzen ----------------------------------------------------- */
+.box-referenzen {
+  background-color: #ffffff;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+.box-referenzen a,
+.box-referenzen a.detailbutton,
+.box-referenzen a.alle_standorte,
+.box-referenzen a.standorte,
+.box-referenzen .detail_gruppentitel,
+.box-referenzen .detail_beschreibungstitel,
+.box-referenzen a.fusszeile,
+.box-referenzen .detail_dokumententitel,
+.box-referenzen #detailsuche_einblenden,
+.box-referenzen #button_zwischenspeicher_einzeln_loeschen {
+  color: #ff8000;
+}
+.box-referenzen fieldset {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+.box-referenzen fieldset form #detailsuche #map {
+  width: 100%;
+  height: 360px;
+  background-color: #cccccc;
+  border-radius: 5px 5px 0 0;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter {
+  padding: 15px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw {
+  clear: both;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte {
+  float: left;
+  padding: 5px 0 25px 0;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte a {
+  margin-left: 15px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche {
+  float: right;
+  padding: 5px 0 25px 0;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche .suchtext {
+  background-color: transparent;
+  background-image: url("http://inag.ch/new/screendesign/images/search-icon.png");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  border: 1px solid #5a5a5a;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  padding: 2px 34px 2px 2px;
+  position: relative;
+  width: 200px;
+  color: #5a5a5a;
+  font-size: 13.999993px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche .suchtext:hover {
+  background-image: url("http://inag.ch/new/screendesign/images/search-icon-hover.png");
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select {
+  font-size: 15.000001000000001px;
+  line-height: 17px;
+  border: none;
+  outline: none;
+  padding: 3px;
+  background: linear-gradient(#cccccc, #e6e6e6);
+  margin: 0 0 0 5px;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
+  height: 27px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw label {
+  position: relative;
+  margin-bottom: 10px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw label:after {
+  content: url(http://www.inag.ch/new/screendesign/images/go-down-19x12.png);
+  right: 0;
+  top: 1px;
+  padding: 0 3px;
+  position: absolute;
+  pointer-events: none;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw label:before {
+  content: '';
+  right: 0;
+  top: 1px;
+  width: 25px;
+  height: 25px;
+  background: linear-gradient(#cccccc, #e6e6e6);
+  position: absolute;
+  pointer-events: none;
+  display: block;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="kanton"] {
+  width: 84px;
+  margin-left: 0;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="arbeitsgattung"] {
+  width: 215px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="bauart"] {
+  width: 118px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="gebaeudeart"] {
+  width: 175px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_von"] {
+  width: 98px;
+}
+.box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_bis"] {
+  width: 92px;
+}
+.box-referenzen fieldset form #referenzen {
+  padding: 5px 15px 15px 15px;
+  overflow: hidden;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte {
+  clear: left;
+  font-size: 15.000001000000001px;
+  line-height: 21.999989px;
+  cursor: pointer;
+  width: 100%;
+  padding-bottom: 15px;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.objektbild {
+  float: left;
+  border-top: 1px solid #d3d3d3;
+  width: 168px;
+  text-align: center;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.objektbild img.objektbild {
+  border: medium none;
+  height: 100px;
+  margin-top: 5px;
+  width: 150px;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.objektdaten {
+  float: left;
+  border-top: 1px solid #d3d3d3;
+  height: 115px;
+  padding-right: 5px;
+  padding-top: 5px;
+  vertical-align: top;
+  width: 289px;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.objektdaten .objekttitel {
+  font-weight: bold;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.objekteigenschaften {
+  float: left;
+  border-top: 1px solid #d3d3d3;
+  padding-top: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+  width: 175px;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.arbeitsgattungen {
+  float: left;
+  border-top: 1px solid #d3d3d3;
+  padding-top: 5px;
+  padding-right: 9px;
+  vertical-align: top;
+  width: 200px;
+}
+.box-referenzen fieldset form #referenzen #display div.objekte div.arbeitsgattungen #detailbutton {
+  position: relative;
+  padding-top: 21px;
+  text-align: right;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display {
+  clear: left;
+  margin: 5px 0;
+  padding: 15px 45px;
+  font-size: 15.000001000000001px;
+  line-height: 21.999989px;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen {
+  width: 100%;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_arbeitsgattung {
+  float: left;
+  width: 302px;
+  font-weight: bold;
+  vertical-align: bottom;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_firma {
+  float: left;
+  width: 440px;
+  font-weight: bold;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_gruppentitel {
+  clear: left;
+  padding-top: 10px;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_arbeitsgattung,
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_arbeitsgattung {
+  float: left;
+  width: 302px;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_firma,
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_firma {
+  float: left;
+  width: 440px;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung {
+  clear: left;
+  font-size: 15.000001000000001px;
+  line-height: 21.999989px;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_beschreibungstitel {
+  padding-top: 10px;
+  font-weight: bold;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_detailbeschreibung {
+  margin-bottom: 15px;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #vorschaubilder {
+  clear: both;
+  padding-top: 15px;
+  text-align: center;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #hauptbilder {
+  padding-top: 5px;
+  text-align: center;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #hauptbilder img {
+  max-width: 100%;
+}
+.box-referenzen fieldset form #referenzen #display .div_details_display #detail_dokumente {
+  clear: both;
+  padding-top: 15px;
+}
+@media (max-width: 1199px) {
+  .box-referenzen fieldset form #detailsuche #map {
+    height: 300px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte {
+    padding: 5px 0 20px 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte a {
+    margin-left: 15px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche {
+    padding: 5px 0 20px 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche .suchtext {
+    width: 180px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select {
+    height: 27px;
+    margin: 0 0 0 4px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label:after {
+    top: 2px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label:before {
+    height: 26px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="kanton"] {
+    width: 80px;
+    margin-left: 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="arbeitsgattung"] {
+    width: 152px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="bauart"] {
+    width: 96px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="gebaeudeart"] {
+    width: 144px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_von"] {
+    width: 88px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_bis"] {
+    width: 84px;
+  }
+  .box-referenzen fieldset form #referenzen {
+    padding: 5px 15px 15px 15px;
+    overflow: hidden;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte {
+    font-size: 13.999993px;
+    line-height: 19.9999985px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektbild {
+    width: 138px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektbild img.objektbild {
+    height: 80px;
+    width: 120px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektdaten {
+    height: 95px;
+    width: 230px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objekteigenschaften {
+    width: 150px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.arbeitsgattungen {
+    width: 170px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display {
+    padding: 15px 30px;
+    font-size: 13.999993px;
+    line-height: 19.9999985px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen {
+    width: 100%;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_arbeitsgattung {
+    width: 275px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_firma {
+    width: 353px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_gruppentitel {
+    padding-top: 10px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_arbeitsgattung,
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_arbeitsgattung {
+    width: 275px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_firma,
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_firma {
+    width: 353px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung {
+    font-size: 13.999993px;
+    line-height: 19.9999985px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_beschreibungstitel {
+    padding-top: 10px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_detailbeschreibung {
+    margin-bottom: 15px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #vorschaubilder {
+    clear: both;
+    padding-top: 15px;
+    text-align: center;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #hauptbilder img {
+    width: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .box-referenzen fieldset form #detailsuche #map {
+    height: 320px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte {
+    padding: 5px 0 20px 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte a {
+    margin-left: 15px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche {
+    padding: 5px 0 20px 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche .suchtext {
+    width: 190px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select {
+    height: 27px;
+    margin: 0 0 0 4px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label:after {
+    top: 2px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label:before {
+    height: 26px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="kanton"] {
+    width: 82px;
+    margin-left: 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="arbeitsgattung"] {
+    width: 160px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="bauart"] {
+    width: 100px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="gebaeudeart"] {
+    width: 146px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_von"] {
+    width: 90px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_bis"] {
+    width: 86px;
+  }
+  .box-referenzen fieldset form #referenzen {
+    padding: 5px 15px 15px 15px;
+    overflow: hidden;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte {
+    font-size: 13.999993px;
+    line-height: 19.9999985px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektbild {
+    width: 138px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektbild img.objektbild {
+    height: 80px;
+    width: 120px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektdaten {
+    height: 95px;
+    width: 235px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objekteigenschaften {
+    width: 160px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.arbeitsgattungen {
+    width: 173px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display {
+    padding: 15px 30px;
+    font-size: 13.999993px;
+    line-height: 19.9999985px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen {
+    width: 100%;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_arbeitsgattung {
+    width: 260px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_firma {
+    width: 386px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_gruppentitel {
+    padding-top: 10px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_arbeitsgattung,
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_arbeitsgattung {
+    width: 260px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_firma,
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_firma {
+    width: 386px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung {
+    font-size: 13.999993px;
+    line-height: 19.9999985px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_beschreibungstitel {
+    padding-top: 10px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_detailbeschreibung {
+    margin-bottom: 15px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #vorschaubilder {
+    clear: both;
+    padding-top: 15px;
+    text-align: center;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #hauptbilder img {
+    width: 100%;
+  }
+}
+@media (max-width: 640px) {
+  .box-referenzen fieldset form #detailsuche #map {
+    height: 200px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte {
+    float: none;
+    padding: 3px 0 15px 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #standorte a {
+    margin-left: 15px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche {
+    float: none;
+    padding: 5px 0 25px 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw #self-suche .suchtext {
+    width: 140px;
+    font-size: 13.999993px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select {
+    font-size: 17px;
+    line-height: 22.000006000000003px;
+    padding: 5px;
+    margin: 0 0 0 5px;
+    display: inline-block;
+    height: 33px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label {
+    position: relative;
+    margin-bottom: 10px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label:after {
+    content: url(http://www.inag.ch/new/screendesign/images/go-down-19x12.png);
+    right: 5px;
+    top: 5px;
+    padding: 0 3px;
+    position: absolute;
+    pointer-events: none;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw label:before {
+    content: '';
+    right: 5px;
+    top: 5px;
+    width: 25px;
+    height: 27px;
+    background: linear-gradient(#cccccc, #e6e6e6);
+    position: absolute;
+    pointer-events: none;
+    display: block;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="kanton"] {
+    width: 95px;
+    margin-left: 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="arbeitsgattung"] {
+    width: 180px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="bauart"] {
+    width: 125px;
+    margin-left: 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="gebaeudeart"] {
+    width: 150px;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_von"] {
+    width: 135px;
+    margin-left: 0;
+  }
+  .box-referenzen fieldset form #detailsuche #suchfilter .controw select[name="baujahr_bis"] {
+    width: 140px;
+  }
+  .box-referenzen fieldset form #referenzen {
+    padding: 5px 15px 15px 15px;
+    overflow: hidden;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte {
+    clear: left;
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+    cursor: pointer;
+    width: 100%;
+    padding-bottom: 15px;
+    overflow: hidden;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektbild {
+    float: left;
+    border-top: 1px solid #d3d3d3;
+    width: 104px;
+    text-align: left;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektbild img.objektbild {
+    height: 60px;
+    margin-top: 5px;
+    width: 90px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektdaten {
+    float: left;
+    border-top: 1px solid #d3d3d3;
+    height: 90px;
+    padding-right: 0;
+    padding-top: 5px;
+    vertical-align: top;
+    width: 171px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objektdaten .objekttitel {
+    font-weight: bold;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.objekteigenschaften {
+    clear: left;
+    float: left;
+    border-top: 0 none;
+    padding-top: 5px;
+    padding-right: 5px;
+    vertical-align: top;
+    width: 125px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.arbeitsgattungen {
+    float: left;
+    text-align: right;
+    border-top: 0 none;
+    padding-top: 5px;
+    padding-right: 0;
+    vertical-align: top;
+    width: 150px;
+  }
+  .box-referenzen fieldset form #referenzen #display div.objekte div.arbeitsgattungen #detailbutton {
+    position: relative;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display {
+    clear: left;
+    margin: 5px 0;
+    padding: 0;
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen {
+    width: 100%;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_arbeitsgattung {
+    float: none;
+    width: 100%;
+    font-weight: bold;
+    vertical-align: top;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen #detail_kunde #detail_kunden_firma {
+    float: none;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_gruppentitel {
+    clear: left;
+    padding-top: 10px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_arbeitsgattung,
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_arbeitsgattung {
+    float: left;
+    width: 140px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .detail_bauherr .detail_firma,
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_firmen .zeile_fachplaner .detail_firma {
+    float: left;
+    width: 135px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung {
+    clear: left;
+    font-size: 15.000001000000001px;
+    line-height: 20.000007px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_beschreibungstitel {
+    padding-top: 10px;
+    font-weight: bold;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_projektbeschreibung .detail_detailbeschreibung {
+    margin-bottom: 15px;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #vorschaubilder {
+    clear: both;
+    padding-top: 15px;
+    text-align: center;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #hauptbilder {
+    padding-top: 5px;
+    text-align: center;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #hauptbilder img {
+    max-width: 100%;
+  }
+  .box-referenzen fieldset form #referenzen #display .div_details_display #detail_dokumente {
+    clear: both;
+    padding-top: 15px;
+  }
+}
+/* ------------------------------------------------------ footer ------------------------------------------------------- */
+footer {
+  width: 100%;
+  height: auto;
+  min-height: 100px;
+  padding-top: 15px;
+  overflow: hidden;
+  background-color: #323232;
+  box-shadow: 0px -5px 5px 1px rgba(0, 0, 0, 0.3);
+}
+h2.address,
+p.address {
+  color: #ffffff;
+  font-size: 15.000001000000001px;
+  line-height: 22.000006000000003px;
+}
+.footer-menu-1,
+.footer-menu-2,
+.footer-menu-3 {
+  margin: 0;
+}
+.footer-menu-1 .navbar-nav li,
+.footer-menu-2 .navbar-nav li,
+.footer-menu-3 .navbar-nav li {
+  background-color: transparent;
+  float: none;
+}
+.footer-menu-1 .navbar-nav li a,
+.footer-menu-2 .navbar-nav li a,
+.footer-menu-3 .navbar-nav li a {
+  font-size: 15.000001000000001px;
+  color: #e6e6e6;
+  padding: 0;
+  margin: 0;
+  display: block;
+  line-height: 22.000006000000003px;
+  position: relative;
+}
+.footer-menu-1 .navbar-nav li a:hover,
+.footer-menu-2 .navbar-nav li a:hover,
+.footer-menu-3 .navbar-nav li a:hover,
+.footer-menu-1 .navbar-nav li a:focus,
+.footer-menu-2 .navbar-nav li a:focus,
+.footer-menu-3 .navbar-nav li a:focus {
+  color: #ff8000;
+  background-color: transparent;
+}
+.footer-menu-1 .navbar-nav li.active a,
+.footer-menu-2 .navbar-nav li.active a,
+.footer-menu-3 .navbar-nav li.active a,
+.footer-menu-1 .navbar-nav li.active a:hover,
+.footer-menu-2 .navbar-nav li.active a:hover,
+.footer-menu-3 .navbar-nav li.active a:hover,
+.footer-menu-1 .navbar-nav li.active a:focus,
+.footer-menu-2 .navbar-nav li.active a:focus,
+.footer-menu-3 .navbar-nav li.active a:focus {
+  background-color: #323232;
+  color: #ff8000;
+}
+@media (max-width: 991px) {
+  .footer-menu-1 .navbar-nav {
+    margin: 0 0 25px 12px;
+  }
+  .footer-menu-2 .navbar-nav,
+  .footer-menu-3 .navbar-nav {
+    margin: 0 0 25px 24px;
+  }
+  h2.address {
+    margin-left: 12px;
+  }
+  p.address {
+    margin: 0 0 24px 24px;
+  }
+}
+.footer-menu-1 .navbar-nav li a {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+/* -------------------------------------------------- helpers -------------------------------------------- */
+.arrow {
+  border-top: 9px solid #FFF;
+  border-left: 9px solid rgba(0, 0, 0, 0);
+  border-right: 9px solid rgba(0, 0, 0, 0);
+  height: 0;
+  margin: 0 auto;
+  width: 0;
+}
+.subarrow {
+  border-top: 8px solid #FFF;
+  border-left: 8px solid rgba(0, 0, 0, 0);
+  border-right: 8px solid rgba(0, 0, 0, 0);
+  height: 0;
+  margin: 0 auto;
+  width: 0;
+}
+/* ======================================================================================================
+	SUPERSIZED
+========================================================================================================= */
+/* ---------------------------------------- hide supersized --------------------------------------------- */
+@media (max-width: 991px) {
+  #supersized {
+    display: none;
+  }
+  #prevslide,
+  #nextslide {
+    position: absolute;
+    height: 43px;
+    width: 43px;
+    top: 0;
+    margin-top: -50px;
+    opacity: 0.6;
+  }
+}
+/* ====================================================================================================
+	TRY
+======================================================================================================= */
+/* ----------------------------- equal heights ------------------------------------ */
+.teaser-container {
+  overflow: hidden;
+}
+.teaser-1,
+.teaser-2,
+.teaser-3 {
+  background-color: #fff;
+  padding-bottom: 1000px;
+  margin-bottom: -1000px;
+}

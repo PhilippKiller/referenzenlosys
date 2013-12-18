@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="de" xmlns:ng="http://angularjs.org" ng-app="LosysReferenzen">
+  <head>
+  	<meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Inag AG</title>
+    
+   
+    <!-- jquery -->
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        
+    
+    <!-- bootstrap 3.x -->
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+    <!-- supersized (jquery plugin) -->
+        <link rel="stylesheet" href="js/supersized/supersized.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="js/supersized/supersized.shutter.css" type="text/css" media="screen" />
+
+        <script type="text/javascript" src="js/supersized/jquery.easing.min.js"></script>
+        <script type="text/javascript" src="js/supersized/supersized.3.2.7.min.js"></script>
+        <script type="text/javascript" src="js/supersized/supersized.shutter.min.js"></script>
+        <script type="text/javascript">
+            jQuery(function($){
+                
+                $.supersized({
+                    
+                        // Functionality
+                        slideshow               :   1,			// Slideshow on/off
+                        autoplay				:	0,			// Slideshow starts playing automatically
+                        start_slide             :   1,			// Start slide (0 is random)
+                        stop_loop				:	0,			// Pauses slideshow on last slide
+                        random					: 	0,			// Randomize slide order (Ignores start slide)
+                        slide_interval          :   3000,		// Length between transitions
+                        transition              :   6, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+                        transition_speed		:	1000,		// Speed of transition
+                        new_window				:	1,			// Image links open in new window/tab
+                        pause_hover             :   0,			// Pause slideshow on hover
+                        keyboard_nav            :   1,			// Keyboard navigation on/off
+                        performance				:	1,			// 0-Normal, 1-Hybrid speed/quality, 2-Optimizes image quality, 3-Optimizes transition speed // (Only works for Firefox/IE, not Webkit)
+                        image_protect			:	1,			// Disables image dragging and right click with Javascript
+                                                                   
+                        // Size & Position						   
+                        min_width		        :   0,			// Min width allowed (in pixels)
+                        min_height		        :   0,			// Min height allowed (in pixels)
+                        vertical_center         :   1,			// Vertically center background
+                        horizontal_center       :   1,			// Horizontally center background
+                        fit_always				:	0,			// Image will never exceed browser width or height (Ignores min. dimensions)
+                        fit_portrait         	:   1,			// Portrait images will not exceed browser height
+                        fit_landscape			:   0,			// Landscape images will not exceed browser width
+                                                                   
+                        // Components							
+                        slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
+                        thumb_links				:	1,			// Individual thumb links for each slide
+                        thumbnail_navigation    :   0,			// Thumbnail navigation
+                        slides 					:  	[			// Slideshow Images
+                                                            {image : 'http://inag.ch/new/screendesign/images/background-1.jpg', title : 'Image Credit: Martin Tschupp', thumb : 'http://inag.ch/new/screendesign/images/background-1-thumb.jpg', url : 'http://www.fotocommunity.de/fotograf/martin-tschupp/646221'},
+                                                            {image : 'http://inag.ch/new/screendesign/images/background-2.jpg', title : 'Image Credit: Martin Tschupp', thumb : 'http://inag.ch/new/screendesign/images/background-2-thumb.jpg', url : 'http://www.fotocommunity.de/fotograf/martin-tschupp/646221'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/kazvan-3.jpg', title : 'Image Credit: Maria Kazvan', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/kazvan-3.jpg', url : 'http://www.nonsensesociety.com/2011/04/maria-kazvan/'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/wojno-1.jpg', title : 'Image Credit: Colin Wojno', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/wojno-1.jpg', url : 'http://www.nonsensesociety.com/2011/03/colin/'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/wojno-2.jpg', title : 'Image Credit: Colin Wojno', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/wojno-2.jpg', url : 'http://www.nonsensesociety.com/2011/03/colin/'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/wojno-3.jpg', title : 'Image Credit: Colin Wojno', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/wojno-3.jpg', url : 'http://www.nonsensesociety.com/2011/03/colin/'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/shaden-1.jpg', title : 'Image Credit: Brooke Shaden', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/shaden-1.jpg', url : 'http://www.nonsensesociety.com/2011/06/brooke-shaden/'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/shaden-2.jpg', title : 'Image Credit: Brooke Shaden', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/shaden-2.jpg', url : 'http://www.nonsensesociety.com/2011/06/brooke-shaden/'},
+                                                            {image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/shaden-3.jpg', title : 'Image Credit: Brooke Shaden', thumb : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/thumbs/shaden-3.jpg', url : 'http://www.nonsensesociety.com/2011/06/brooke-shaden/'}
+                                                    ],
+                                                    
+                        // Theme Options			   
+                        progress_bar			:	1,			// Timer for each slide							
+                        mouse_scrub				:	0
+                        
+                    });
+                
+            });
+        </script>
+   
+ 
+    <!-- styles -->
+    		<link rel="stylesheet" type="text/css" href="style.css">
+    
+    <!-- modernizr -->
+    	<script type="text/javascript" src="js/modernizr.2.6.3.custom.min.js"></script>
+      
+    <!-- equal heights -->
+		<script type="text/javascript">
+			$(window).load(function() {
+				var highestBox = 0;
+				$('[data-equal-height-container="1"]>div>div').each(function(){  
+					if ($(this).height() > highestBox) {  
+						highestBox = $(this).height();  
+					}
+				});    
+				//$('[data-equal-height-container="1"]>div').height(highestBox);
+				$('[data-equal-height-container="1"]>div>div').height(highestBox);
+			});
+		</script>
+
+<!-- photoSwipe -->
+      <link rel="stylesheet" href="js/photoswipe/1.0.11/photoswipe.css" />
+      <script src="js/photoswipe/1.0.11/lib/simple-inheritance.min.js"></script>
+      <script src="js/photoswipe/1.0.11/code-photoswipe-1.0.11.min.js"></script>
+      <link rel="stylesheet" href="js/photoswipe/1.0.11/photoswipe.css" />
+
+<!-- older versions of ie display referenzen in iframe -->
+<!--[if lt IE 9]>
+      <script>
+          (function($) {
+              $(function() {
+                $('.box-referenzen').replaceWith('<iframe src="http://losys.ch/firmen/inag-nievergelt-ag-hohlstrasse-536-in-8048-zuerich/1207/iframe.html" name="losys_iframe" height="600" width="100%" scrolling="auto" frameborder="0"></iframe>');
+              });
+          })(jQuery);
+      </script>
+<![endif]-->
+<![if !IE]>
+<!-- AngularJS -->
+      <script src="js/angular/angular.min.js"></script>
+  <!-- dependencies -->
+      <script src="js/angular/angular-resource.min.js"></script>
+      <script src="js/angular/angular-cookies.min.js"></script>
+      <script src="js/angular/angular-sanitize.min.js"></script>
+      <script src="js/angular/angular-route.min.js"></script>
+      <script src="js/ie-trim-polyfill.js"></script><!-- xml2json uses trim() which is not supported by ie8- -->
+      <script src="js/xml2json.min.js"></script>
+      <!--leaflet library and corresponding angular directive -->
+          <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+          <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css">
+          <!--[if lte IE 8]>
+          <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+          <![endif]-->
+          <script src="js/angular/leaflet/angular-leaflet-directive.min.js"></script>
+          <!-- Google Maps for leaflet -->
+          <script src="http://maps.google.com/maps/api/js?v=3.2&sensor=false"></script>
+          <script src="js/angular/leaflet/plugins/Google.js"></script>
+      <!-- bindonce: buggy with newest angular version -->
+          <!--<script src="js/angular/bindonce/bindonce.js"></script>-->
+      <!-- ng-infinite-scroll.min.js -->
+          <script src="js/angular/nginfinitescroll/ng-infinite-scroll.min.js"></script>
+  <!-- app -->
+      <script type="text/javascript" src="app.js"></script>
+      <script type="text/javascript" src="ng/services/Referenzen.js"></script>
+      <script type="text/javascript" src="ng/services/ReferenzenLoader.js"></script>
+      <script type="text/javascript" src="ng/services/FilterService.js"></script>
+      <script type="text/javascript" src="ng/filters/TextSearch.js"></script>
+      <script type="text/javascript" src="ng/filters/ArbeitsgattungenSearch.js"></script>
+      <script type="text/javascript" src="ng/filters/BaujahrSearch.js"></script>
+      <script type="text/javascript" src="ng/controllers/ReferenzenController.js"></script>
+      <script type="text/javascript" src="ng/controllers/FilterController.js"></script>
+      <script type="text/javascript" src="ng/controllers/GoogleMapsController.js"></script>
+      <script type="text/javascript" src="ng/directives/Widgets.js"></script>
+
+<!-- TEMP: put in css later on! -->
+      <style>
+         /* auto scale leaflet map */
+          .googleMap {
+              height:100%;
+              width:100%;
+          }
+          .angular-leaflet-map {
+              position:static;
+              height:100%;/*% or auto won't work*/
+              width:100%;
+          }
+
+          /* highlight navigation */
+          .box-referenzen .standorte.active
+          ,.box-referenzen .alle_standorte.active {
+              color: rgb(90, 90, 90);
+          }
+      </style>
+<![endif]>
+    
+  </head>
+  
+  <body>
+	<div id="container_main"><!-- .container & overflow:hidden needed to display without border around whole website (or on right side) on mobiles -->
+    
+    <!-- HEADER:START -->
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="hidden-xs hidden-sm col-md-3 col-lg-3"><a href="index.html"><img src="images/logo-inag-200x99.png"></a></div>
+          <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+          	<nav class="navbar navbar-default" role="navigation">
+                    <!-- Mobile display -->
+                    <div class="navbar-header">
+                    	<a class="smartlogo" href="index.html"><img src="images/logo-inag-142x70.png"></a>
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mobile-navigation-trigger">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                    </div>
+                    <!-- mobile navigation //-->
+              			<div class="mobile-navigation">
+                    	<div class="collapse navbar-collapse" id="mobile-navigation-trigger">
+                      
+                      	<div class="row">
+                            <div class="hidden-xs hidden-sm col-md-3 col-lg-3"> </div>
+                            <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 main-navigation">
+                              <!-- main navigation:start -->
+                            
+                                <ul class="nav navbar-nav">
+                                  <li><a href="sanitaertechnik.html">Sanitär</a></li>
+                                  <li><a href="#">Heizung</a></li>
+                                  <li><a href="#">Bauspenglerei</a></li>
+                                  <li class="active"><a href="#">Referenzen</a></li>
+                                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="ueber-uns.html" href="#">Über Inag <img class="down" src="images/go-down-24x15.png"><img class="up" src="images/go-up-24x15.png"></a>
+                              
+                              <!-- sub-menu:start -->
+
+                                      <ul class="nav navbar-nav dropdown-menu sub-menu">
+                                        <li><a href="#">Vision</a></li>
+                                        <li><a href="#">Beratung</a></li>
+                                        <li><a href="ueber-uns.html">Team</a></li>
+                                        <li><a href="#">Sponsoring & Karitatives</a></li>
+                                        <li><a href="#">Links</a></li>
+                                        <li><a href="#">Chronik</a></li>
+                                      </ul>
+                              <!-- sub-menu:start -->
+
+                                  </li>
+                                </ul>
+                            <!-- main navigation:end -->
+                            </div>
+                        </div>
+                      
+                      
+                        <div class="row">
+                          <div class="hidden-xs col-sm-3 hidden-md hidden-lg"><a href="index.html"><img src="images/logo-inag-142x70.png"></a></div>
+                          <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 top-menu">
+                              
+                            <!-- top-menu -->
+                        
+                                <ul class="nav navbar-nav">
+                                  <li><a href="#">Service</a></li>
+                                  <li><a href="stellenangebote.html">Stellen</a></li>
+                                  <li><a href="#">Galerie</a></li>
+                                  <li><a href="#">Kontakt</a></li>
+                                </ul>
+                                
+                                <form action="#" id="searchform" method="get" role="search" class="navbar-form">
+                               		<label>
+                                    <input type="search" title="Suche nach:" name="s" value="" placeholder="Suche …" class="search-field">
+                                  </label>
+                                  <input type="submit" value="Suche" class="search-submit">
+                                </form>
+                        
+                            <!-- top-menu end -->
+                            </div>
+                        </div>
+                        
+											</div>
+                    </div>
+
+                    <!-- desktop navigation //-->
+                    <div class="desktop-navigation">
+                      <div class="row">
+                        <div class="hidden-xs col-sm-3 hidden-md hidden-lg"><a href="index.html"><img src="images/logo-inag-142x70.png"></a></div>
+                        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 top-menu">
+                            <!-- top-menu -->
+                      				
+                              <form action="#" id="searchform" method="get" role="search" class="navbar-form">
+                               		<label>
+                                    <input type="search" title="Suche nach:" name="s" value="" placeholder="Suche …" class="search-field">
+                                  </label>
+                                  <input type="submit" value="Suche" class="search-submit">
+                                </form>
+                              
+                              <ul class="nav navbar-nav">
+                                <li><a href="#">Service</a></li>
+                                <li><a href="stellenangebote.html">Stellen</a></li>
+                                <li><a href="#">Galerie</a></li>
+                                <li><a href="#">Kontakt</a></li>
+                              </ul>
+                      
+                          <!-- top-menu end -->
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="hidden-xs hidden-sm col-md-3 col-lg-3"> </div>
+                          <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 main-navigation">
+                            <!-- main navigation:start -->
+                          
+                              <ul class="nav navbar-nav">
+                                <li><a href="sanitaertechnik.html">Sanitär</a>
+                                    <div class="arrow"></div></li>
+                                <li><a href="#">Heizung</a>
+                                    <div class="arrow"></div></li>
+                                <li><a href="#">Bauspenglerei</a>
+                                    <div class="arrow"></div></li>
+                                <li class="active"><a href="#">Referenzen</a>
+                                    <div class="arrow"></div></li>
+                                <li><a href="ueber-uns.html">Über Inag</a>
+                                    <div class="arrow"></div></li>
+                              </ul>
+                          
+                            <!-- main navigation:end -->
+                          </div>
+                      </div>
+                    </div>
+          		</nav>
+          	</div>
+        	</div>
+        </div>
+    </header>
+    <!-- HEADER:END -->
+
+    <!-- CONTENT:START -->
+    <div class="container content">
+      <div class="row">
+          <div class="hidden-xs hidden-sm col-md-3 col-lg-3"> </div>
+          <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+              <div class="row spacer-bottom">
+                  <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+                      <div class="box-referenzen">
+                          <fieldset ng-controller="GoogleMapsController">
+                              <form ng-controller="FilterController">
+                                  <div id="detailsuche">
+                                      <div id="map">
+
+                                          <div class="googleMap">
+                                              <div data-leaflet="1" data-center="schweiz" data-layers="layers" data-markers="markers"></div>
+                                          </div>
+
+                                      </div>
+                                      <div id="suchfilter">
+                                          <div class="controw">
+                                              <div id="standorte">
+                                                  Standorte:
+                                                  <a class="alle_standorte" ng-class="{active: data.url=='/'}" href="#/">Alle</a>
+                                                  <a class="standorte" ng-class="{active: data.url=='/wetzikon'}" href="#/wetzikon">Wetzikon</a>
+                                                  <a class="standorte" ng-class="{active: data.url=='/zurich'}" href="#/zurich">Zürich</a>
+                                              </div>
+                                              <div id="self-suche">
+                                                  Objekt/Strasse/Ort: <input class="suchtext" type="text" ng-model="filterService.filters.searchString" placeholder="" name="volltext">
+                                              </div>
+                                          </div>
+                                          <div class="controw">
+                                              <label>
+                                                  <select name="kanton" ng-model="filterService.filters.activeFilters.kanton" ng-init="filterService.filters.activeFilters.kanton=''" data-nong-options="a for a in data.filters.kanton">
+                                                      <option label="Kanton" value="">Kanton</option>
+                                                      <option value="">alle</option>
+                                                      <option  ng-repeat="a in data.filters.kanton track by $index">{{a}}</option>
+                                                  </select>
+                                              </label>
+                                              <label>
+                                                  <select name="arbeitsgattung"   ng-model="filterService.filters.arbeitsgattung" ng-init="filterService.filters.arbeitsgattung=''">
+                                                      <option label="Arbeitsgattung" value="">Arbeitsgattung</option>
+                                                      <option value="">alle</option>
+                                                      <option  ng-repeat="a in data.filters.arbeitsgattung track by $index">{{a}}</option>
+                                                  </select>
+                                              </label>
+                                              <label>
+                                                  <select name="bauart" ng-model="filterService.filters.activeFilters.bauart" ng-init="filterService.filters.activeFilters.bauart=''">
+                                                      <option label="Bauart" value="">Bauart</option>
+                                                      <option value="">alle</option>
+                                                      <option  ng-repeat="a in data.filters.bauart track by $index">{{a}}</option>
+                                                  </select>
+                                              </label>
+                                              <label>
+                                                  <select name="gebaeudeart" ng-model="filterService.filters.activeFilters.bautyp" ng-init="filterService.filters.activeFilters.bautyp=''">
+                                                      <option label="Gebäudeart" value="">Gebäudeart</option>
+                                                      <option value="">alle</option>
+                                                      <option  ng-repeat="a in data.filters.bautyp track by $index">{{a}}</option>
+                                                  </select>
+                                              </label>
+                                              <label>
+                                                  <select name="baujahr_von" ng-model="filterService.filters.baujahr.von" ng-init="filterService.filters.baujahr.von=''">
+                                                      <option label="Jahr von" value="">Jahr von</option>
+                                                      <option value="">alle</option>
+                                                      <option  ng-repeat="a in data.filters.baujahr track by $index">{{a}}</option>
+                                                  </select>
+                                              </label>
+                                              <label>
+                                                  <select name="baujahr_bis" ng-model="filterService.filters.baujahr.bis" ng-init="filterService.filters.baujahr.bis=''">
+                                                      <option label="Jahr bis" value="">Jahr bis</option>
+                                                      <option value="">alle</option>
+                                                      <option  ng-repeat="a in data.filters.baujahr track by $index">{{a}}</option>
+                                                  </select>
+                                              </label>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div id="referenzenPreloader" class="">
+                                      Lade Daten..
+                                  </div>
+                                  <div id="referenzen"                      ng-view>
+
+                                  </div>
+                              </form>
+                          </fieldset>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+      </div>
+    </div>
+    <!-- CONTENT:END -->
+    
+    <!-- FOOTER:START -->
+    <footer>
+      <div class="container">
+      	<div class="row spacer-bottom">
+        	<div class="hidden-xs col-sm-4 col-md-2 col-lg-2">
+          	<div class="footer-menu-1">
+              <ul class="nav navbar-nav ">
+                <li><a href="#">Sanitär</a></li>
+                <li><a href="#">Heizung</a></li>
+                <li><a href="#">Bauspenglerei</a></li>
+                <li><a href="#">Referenzen</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="hidden-xs col-sm-4 col-md-2 col-lg-2">
+          	<div class="footer-menu-2">
+            	<h2 class="address">über inag</h2>
+              <ul class="nav navbar-nav ">
+                <li><a href="#">Vision</a></li>
+                <li><a href="#">Beratung</a></li>
+                <li><a href="#">Team</a></li>
+                <li><a href="#">Sponsoring & Karitatives</a></li>
+                <li><a href="#">Links</a></li>
+                <li><a href="#">Chronik</a></li>
+                <li><a href="#">Galerie</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="hidden-xs col-sm-4 col-md-2 col-lg-2">
+          	<div class="footer-menu-3">
+            	<h2 class="address">service</h2>
+              <ul class="nav navbar-nav ">
+                <li><a href="#">Service</a></li>
+                <li><a href="stellenangebote.html">Stellen</a></li>
+                <li><a href="#">Kontakt</a></li>
+                <li><a href="#">Rechtliches</a></li>
+                <li><a href="#">Impressum</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+            <h2 class="address">Hauptsitz Zürich</h2>
+            <p class="address">Inag-Nievergelt AG<br>
+              Hohlstrasse 536<br>
+              8048 Zürich<br>
+              Telefon 044 432 32 32<br>
+              Telefax 044 432 41 41</p>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+          	<h2 class="address">Filiale Wetzikon</h2>
+            <p class="address">Inag-Nievergelt AG<br>
+              Filiale Wetzikon<br>
+              Zentralstrasse 4<br>
+              8623 Wetzikon<br>
+              Telefon 044 931 20 90<br>
+              Telefax 044 931 20 99</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- FOOTER:END -->
+    
+    
+	
+	<!--Arrow Navigation-->
+	<a id="prevslide" class="load-item"></a>
+	<a id="nextslide" class="load-item"></a>
+	
+	
+    
+    
+    
+    
+	</div>
+  
+  </body>
+</html>

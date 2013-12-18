@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<referenzdaten>
+    <generiert_von>www.losys.ch</generiert_von>
+    <kunde>AB brandschutz ag, Winterthur</kunde>
+    <adress_id>2443</adress_id>
+    <erstellt_am>2013-11-27 10:05:52</erstellt_am>
+    <sprache>DE</sprache>
+    <objekte>
+    <!-- beliebige Anzahl <objekt> moeglich --><objekt>
+    <id>7095</id>
+    <erstellungsdatum>1373580000</erstellungsdatum>
+    <titel>Alters- und Pflegezentrum Amriswil</titel>
+    <strasse>Heimstrasse 15</strasse>
+    <plz>8580</plz>
+    <ort>Amriswil</ort>
+    <baujahr>2013</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Alters- und Pflegeheim</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Brandschutzbekleidungen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Öffentlicher Bauherr</arbeitsgattung>
+        <name>Alterswohnungen der Stadt</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Niedermann Sigg Schwendener Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>SJB.KEMPTER.FITZE AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Baukla Generalunternehmung AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLK Planer</arbeitsgattung>
+    <name>Büro 3 Landgraf Renda Rohner</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Was vor Jahren mit der Diskussion
+    über einen zu erstellenden Dementen
+    -
+    garten im Alters- und Pflegezentrum
+    begonnen hatte, endete mit einem
+    Neubau für Demenzkranke und
+    einem schönen Garten sowie zwölf
+    grosszügigen Alterswohnungen,
+    grossem Saal und Restaurant.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+    beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>6474</id>
+    <erstellungsdatum>1359586800</erstellungsdatum>
+    <titel>Ersatzneubau Siedlung Furttal</titel>
+    <strasse>Furttalstrasse</strasse>
+    <plz>8046</plz>
+    <ort>Zürich-Affoltern</ort>
+    <baujahr>2013</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Spez. Dämmungen</arbeitsgattung><arbeitsgattung>Brandschutzbekleidungen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baugenossenschaft Waidmatt</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt, Baumanagement</arbeitsgattung>
+    <name>Bosshardt &amp; Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Kunst am Bau</arbeitsgattung>
+    <name>Stauffacher Hans-Peter und Anca</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Verein</arbeitsgattung>
+    <name>MINERGIE</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>An der Furttalstrasse in Affoltern entstehen 100 unterschiedliche Genossenschaftswohnungen in ökologischer Bauweise. Die hindernisfrei gestalteten Grundrisse bieten viel Wohnkomfort zu attraktiven Preisen.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>12245</id>
+    <url>www.losys.ch/projekte/0/0/6/4/6474/bilder/basis/6474_1359653119_ersatzneubau-jpg.jpg</url>
+    <dateiname>ersatzneubau-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt></objekte>
+</referenzdaten>

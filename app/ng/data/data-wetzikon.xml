@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<referenzdaten>
+    <generiert_von>www.losys.ch</generiert_von>
+    <kunde>Inag-Nievergelt AG, Wetzikon</kunde>
+    <adress_id>2060</adress_id>
+    <erstellt_am>2013-12-02 10:13:12</erstellt_am>
+    <sprache>DE</sprache>
+    <anzahl_objekte>68</anzahl_objekte><objekte>
+    <!-- beliebige Anzahl <objekt> moeglich --><objekt>
+    <id>7120</id>
+    <erstellungsdatum>1374444000</erstellungsdatum>
+    <titel>Neubau 3 MFH</titel>
+    <strasse>Forchstrasse 11, 13, 15</strasse>
+    <plz>8703</plz>
+    <ort>Erlenbach</ort>
+    <baujahr>2013</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitäranlagen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>maurusfrei partner ag</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>wlw Bauingenieure AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung, Projekt, Generalunternehmer</arbeitsgattung>
+    <name>Ralbau AG Generalunternehmung</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Elektroplanung</arbeitsgattung>
+    <name>R+B engineering ag</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLKS-Ingenieur</arbeitsgattung>
+    <name>Hossle GmbH </name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer</arbeitsgattung>
+    <name>IBC Innova Baumanagement &amp; Consulting AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Hier an der Forchstrasse in Erlenbach entstehen drei neue Mehrfamilienhäuser.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>15857</id>
+    <url>www.losys.ch/projekte/0/0/7/1/7120/bilder/basis/7120_1374506983_neubau-3-mfh-jpg.jpg</url>
+    <dateiname>neubau-3-mfh-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>4598</id>
+    <erstellungsdatum>1327186800</erstellungsdatum>
+    <titel>Schönwies</titel>
+    <strasse>Rosinlistrasse 11 / 13 / 15</strasse>
+    <plz>8620</plz>
+    <ort>Wetzikon</ort>
+    <baujahr>2013</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung><arbeitsgattung>Spenglerarbeiten</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baukonsortium Schönwies Wetzikon c/o R. Fuchs AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt, Ausführungsplanung</arbeitsgattung>
+    <name>Arnold-Dieterle AG Architektur + Design</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>An der Pfäffikerstrasse in Wetzikon entstehen neue Eigentumswohnungen.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>6449</id>
+    <url>www.losys.ch/projekte/0/0/4/5/4598/bilder/basis/4598_1327249783_objektbild-jpg-jpg.jpg</url>
+    <dateiname>objektbild-jpg-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5655</id>
+    <erstellungsdatum>1342994400</erstellungsdatum>
+    <titel>Wohnüberbauung Breitloo</titel>
+    <strasse>Breitloostrasse</strasse>
+    <plz>8802</plz>
+    <ort>Klichberg</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>GBZ Gemeinnützige Baugenossenschaft Zimmerberg, Kilchberg</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>SUPAARCH Suter Partner Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer</arbeitsgattung>
+    <name>RSH Bau- und Immobilien AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neue Wohnüberbauung Breitloo-Kilchberg, in der Nähe des Zürichsee inmitten der Natur. Die Überbauung Breitloo bietet 6 Mehrfamilienhäuser mit insgesamt 16 Eigentumswohnungen.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>12812</id>
+    <url>www.losys.ch/projekte/0/0/5/6/5655/bilder/basis/5655_1364287339_wohnueberbauung-breitloo-jpg.jpg</url>
+    <dateiname>wohnueberbauung-breitloo-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5652</id>
+    <erstellungsdatum>1342994400</erstellungsdatum>
+    <titel>Umbau Wohnhaus, 8. OG</titel>
+    <strasse>Zentralstrasse 4</strasse>
+    <plz>8623</plz>
+    <ort>Wetzikon</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>W.Weilenmann + T. Efthymiades</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>HOMA Bau- Realisierung</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau des 8. Obergeschosses eines Wohnhauses, an der Zentralstrasse 4 in Wetzikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>13824</id>
+    <url>www.losys.ch/projekte/0/0/5/6/5652/bilder/basis/5652_1370611020_umbau-wohnhaus-8-og-jpg.jpg</url>
+    <dateiname>umbau-wohnhaus-8-og-jpg.jpg</dateiname>
+</bild><bild>
+    <id>13825</id>
+    <url>www.losys.ch/projekte/0/0/5/6/5652/bilder/basis/5652_1370611067_umbau-wohnhaus-8-og-jpg.jpg</url>
+    <dateiname>umbau-wohnhaus-8-og-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5592</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau MFH</titel>
+    <strasse>alte Riedikerstrasse 4a + 4b</strasse>
+    <plz>8610</plz>
+    <ort>Uster</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Erbengemeinschaft Martha Künzle</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Dahinden Heim Architekten</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>Buchmann Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Kurt Gasser</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauphysik</arbeitsgattung>
+    <name>Zehnder &amp; Kälin AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Elektroingenieur</arbeitsgattung>
+    <name>Beratende Ingenieure Scherler AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Geologie</arbeitsgattung>
+    <name>FRIEDLIPARTNER AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Haustechnikplanung</arbeitsgattung>
+    <name>Oesterle Planungsbüro der Haustechnik GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Landschaftsarchitekt</arbeitsgattung>
+    <name>Ryffel &amp; Ryffel, Landschaftsarchitekten BSLA</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von zwei Mehrfamilienhäuser mit insgesamt 15 Wohnungen. 12 Mietwohnungen und 3 Eigentumswohnungen entstehen an der alten Riedikerstrasse 4a + 4b in Uster.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>17319</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5592/bilder/basis/5592_1379684617_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5591</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Sanierung Fitnesspark Stockerhof</titel>
+    <strasse>Dreikönigstrasse 31a</strasse>
+    <plz>8002</plz>
+    <ort>Zürich</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Genossenschaft Migros Zürich</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>architekten : rlc ag</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Evakuationskonzept</arbeitsgattung>
+    <name>Conti Swiss AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung des Fitnesspark Stockerhof an der Dreikönigsstrasse 31a in Zürich</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>11512</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5591/bilder/basis/5591_1353602932_sanierung-fitnesspark-stockerhof-jpg.jpg</url>
+    <dateiname>sanierung-fitnesspark-stockerhof-jpg.jpg</dateiname>
+</bild><bild>
+    <id>11513</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5591/bilder/basis/5591_1353602938_sanierung-fitnesspark-stockerhof-jpg.jpg</url>
+    <dateiname>sanierung-fitnesspark-stockerhof-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5590</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau MFH</titel>
+    <strasse>Hofackerstrasse 1</strasse>
+    <plz>8132</plz>
+    <ort>Egg</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>H-R. Burlet</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>rfp architekten Architektur + Bauleitung AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>Werner Hiestand</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLKS-Ingenieur</arbeitsgattung>
+    <name>Schoch Reibenschuh AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Mehrfamilienhauses an der Hofackerstrasse 1 in Egg</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>14449</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371559442_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14639</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737153_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14640</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737369_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14641</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737388_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14643</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737425_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14644</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737446_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14645</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737473_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>14646</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5590/bilder/basis/5590_1371737514_neubau-mfh-jpg.jpg</url>
+    <dateiname>neubau-mfh-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>4507</id>
+    <erstellungsdatum>1326927600</erstellungsdatum>
+    <titel>Wohnüberbauung Argentario</titel>
+    <strasse>Neutalstrasse 13,15,17</strasse>
+    <plz>8852</plz>
+    <ort>Altendorf</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung><arbeitsgattung>Spenglerarbeiten</arbeitsgattung><arbeitsgattung>Heizungsinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Thaler Group AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt, Projekt</arbeitsgattung>
+    <name>Beat Rothen Architektur GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Ausführungsplanung</arbeitsgattung>
+    <name>HLP Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer</arbeitsgattung>
+    <name>ADT Innova Generalunternehmung</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung Argentario an der Neutalstrasse 13,15,17 in Altendorf SZ. Bestehend aus acht Reiheneinfamilienhäuser und einer Unterniveaugarage mit 24 Abstellplätzen.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>10034</id>
+    <url>www.losys.ch/projekte/0/0/4/5/4507/bilder/basis/4507_1349006280_dsc04107_shiftn-jpg.jpg</url>
+    <dateiname>dsc04107_shiftn-jpg.jpg</dateiname>
+</bild><bild>
+    <id>10035</id>
+    <url>www.losys.ch/projekte/0/0/4/5/4507/bilder/basis/4507_1349006297_dsc04108_shiftn-jpg.jpg</url>
+    <dateiname>dsc04108_shiftn-jpg.jpg</dateiname>
+</bild><bild>
+    <id>10036</id>
+    <url>www.losys.ch/projekte/0/0/4/5/4507/bilder/basis/4507_1349006313_dsc04109_shiftn-jpg.jpg</url>
+    <dateiname>dsc04109_shiftn-jpg.jpg</dateiname>
+</bild><bild>
+    <id>10037</id>
+    <url>www.losys.ch/projekte/0/0/4/5/4507/bilder/basis/4507_1349006329_dsc04099-jpg.JPG</url>
+    <dateiname>dsc04099-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10038</id>
+    <url>www.losys.ch/projekte/0/0/4/5/4507/bilder/basis/4507_1349006339_dsc04101-jpg.JPG</url>
+    <dateiname>dsc04101-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>4442</id>
+    <erstellungsdatum>1325545200</erstellungsdatum>
+    <titel>Blickpunkt am Herterweiher</titel>
+    <strasse>Weiherallee 23, 25, 27, 29,</strasse>
+    <plz>8610</plz>
+    <ort>Uster</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung><arbeitsgattung>Heizungsinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baugesellschaft Am Herterweiher Uster c/o Beat Odinga AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Morger &amp; Dettli Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>Ingenieurbüro Wetli AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Baumanagement</arbeitsgattung>
+    <name>b+p baurealisation ag</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauphysik</arbeitsgattung>
+    <name>IPA Neutrale Energieberatung, Peter Achtnich</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Elektroplanung</arbeitsgattung>
+    <name>Elektro-Design + Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Geologie</arbeitsgattung>
+    <name>Sieber Cassina Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLKS Planung</arbeitsgattung>
+    <name>Ensatech AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Landschaftsarchitekt</arbeitsgattung>
+    <name>Westpol Landschaftsarchitekten GmbH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Direkt am mystischen Herterweiher in Uster entstehen 51 lichtdurchflutete Eigentumswohnungen.
+    3.5 bis 5.5 Zimmerwohnungen mit 109 bsi 163 Quadratmeter harmonisch eingebettet in die parkartige Wasserlandschaft.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>16171</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374830337_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16183</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839771_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16173</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839617_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16174</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839631_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16182</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839754_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16176</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839659_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16184</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839792_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild><bild>
+    <id>16177</id>
+    <url>www.losys.ch/projekte/0/0/4/4/4442/bilder/basis/4442_1374839674_blickpunkt-am-herterweiher-jpg.jpg</url>
+    <dateiname>blickpunkt-am-herterweiher-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5588</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau 2-Familienhaus</titel>
+    <strasse>Im Bettelacher 8</strasse>
+    <plz>8332</plz>
+    <ort>Russikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung><arbeitsgattung>Heizungsanlagen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>C.+M. Lämmle / K.+A. Gubler</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Burkhard + Canella GmbH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines 2-Familienhauses Im Bettelacher 8 in Russikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>15176</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5588/bilder/basis/5588_1372924284_neubau-2-familienhaus-jpg.jpg</url>
+    <dateiname>neubau-2-familienhaus-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5586</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Sanierung MFH</titel>
+    <strasse>Forchstrasse 226 / 228</strasse>
+    <plz>8032</plz>
+    <ort>Zürich</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>F. Leutenegger</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Käferstein und Meister</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Werubau AG Generalunternehmung</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung eines Mehrfamilienhauses an der Forchstrasse 226 / 228 in Zürich</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>12956</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5586/bilder/basis/5586_1366025353_sanierung-mfh-jpg.jpg</url>
+    <dateiname>sanierung-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>12955</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5586/bilder/basis/5586_1366025343_sanierung-mfh-jpg.jpg</url>
+    <dateiname>sanierung-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>12957</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5586/bilder/basis/5586_1366025363_sanierung-mfh-jpg.jpg</url>
+    <dateiname>sanierung-mfh-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5585</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Kantonsschule Zürcher Oberland KZO</titel>
+    <strasse>Bühlstrasse 36</strasse>
+    <plz>8620</plz>
+    <ort>Wetzikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Öffentliche Bauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Öffentlicher Bauherr</arbeitsgattung>
+        <name>Mittelschul-und Berufsbildungesamt</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Schmid Architekten, Baumanagement</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbauarbeiten an der Kantonsschule Zürcher Oberland KZO in Wetzikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>8954</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5585/bilder/basis/5585_1342166445_2406_kzohaupttrakt_foto01k-jpg.jpg</url>
+    <dateiname>2406_kzohaupttrakt_foto01k-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5554</id>
+    <erstellungsdatum>1341525600</erstellungsdatum>
+    <titel>Neubau 2 MFH</titel>
+    <strasse>Unterfeld</strasse>
+    <plz>8700</plz>
+    <ort>Küsnacht</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baugenossenschaft Zürichsee</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Egli Rohr Partner AG Architekten BSA SIA</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Werubau AG Generalunternehmung</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Sanitäringenieur</arbeitsgattung>
+    <name>Leimgruber Fischer Schaub AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Im Unterfeld Küsnacht, entstehen zwei Mehrfamilienhäuser mit insgesamt 18 Genossenschaftswohnungen und einer Autoeinstellhalle.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>13397</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5554/bilder/basis/5554_1369149291_neubau-2-mfh-jpg.jpg</url>
+    <dateiname>neubau-2-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>13398</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5554/bilder/basis/5554_1369149302_neubau-2-mfh-jpg.jpg</url>
+    <dateiname>neubau-2-mfh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>13399</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5554/bilder/basis/5554_1369149315_neubau-2-mfh-jpg.jpg</url>
+    <dateiname>neubau-2-mfh-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5552</id>
+    <erstellungsdatum>1341525600</erstellungsdatum>
+    <titel>Neubau 2 MFH</titel>
+    <strasse>Poststrasse 21 + 23</strasse>
+    <plz>8634</plz>
+    <ort>Hombrechtikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>roskothen architekten gmbh</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>CAS Chappuis Aregger Solèr Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Sanitärplanung</arbeitsgattung>
+    <name>W+L Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von zwei Mehrfamilienhäuser, mit 13 Eigentumswohnungen und 22 Tiefgaragenplätze, an der Poststrasse 21 + 23 in Hombrechtikon.
+
+    Wohnungsmix:
+    2 1/2- bis 4 1/2-Zimmer-Wohnungen
+    2 1/2-Zimmer-Attika-Wohnunge
+    4 1/2-Zimmer-Attika-Wohnunge
+    5 1/2-Zimmer-Attika-Wohnunge</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>8743</id>
+    <url>www.losys.ch/projekte/0/0/5/5/5552/bilder/basis/5552_1341564468_poststrasse-hombrechtikon-jpg.jpg</url>
+    <dateiname>poststrasse-hombrechtikon-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>4192</id>
+    <erstellungsdatum>1320879600</erstellungsdatum>
+    <titel>Neubau 3 MFH</titel>
+    <strasse>Mülibachstrasse 19/21/23</strasse>
+    <plz>8107</plz>
+    <ort>Buchs ZH</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung>Investor</arbeitsgattung>
+        <name>AKRIBA Immobilien-Anlagestiftung</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>Gauss &amp; Merz AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Daniel Widmer, Baumanegement</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauphysik</arbeitsgattung>
+    <name>Feag Facility Engineering AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Elektroplanung</arbeitsgattung>
+    <name>FZ Gebäudetechnik GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Geologie</arbeitsgattung>
+    <name>Christian Huber</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Haustechnikplanung</arbeitsgattung>
+    <name>Oesterle Planungsbüro der Haustechnik GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer, Architekt</arbeitsgattung>
+    <name>atelier für hochbau, b. meyer</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Hier an der Mülibachstrasse in Buch ZH entstehen grosszügige, moderne 2.5 bis 4.5 Zimmer-Wohnungen im Minergie-Standart.
+    Bezugsbereit ab Sommer 2012</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>6751</id>
+    <url>www.losys.ch/projekte/0/0/4/1/4192/bilder/basis/4192_1328515672_201107180720578988476_xl-jpg-jpg.jpg</url>
+    <dateiname>201107180720578988476_xl-jpg-jpg.jpg</dateiname>
+</bild><bild>
+    <id>6752</id>
+    <url>www.losys.ch/projekte/0/0/4/1/4192/bilder/basis/4192_1328515676_201107180721376169479_xl-jpg-jpg.jpg</url>
+    <dateiname>201107180721376169479_xl-jpg-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3818</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Sanierung Schulhaus Berg 1 + 2 in Gossau ZH</titel>
+    <strasse>Bergstrasse 37</strasse>
+    <plz>8625</plz>
+    <ort>Gossau</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Öffentliche Bauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Öffentlicher Bauherr</arbeitsgattung>
+        <name>Gemeindeverwaltung Gossau ZH</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>rüegg sieger partner ag dipl. Arch. ETH/FH/SIA</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>1A Bauleitungen, Peter Gerschwiler</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>MMT AG BAULEITER UND ARCHITEKTEN</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Das kurz nach 1950 erbaute Schulhaus Berg 2 ist in den 90-ziger Jahren durch einen Treppenhausanbau sowie einem Lift ergänzt worden. Die Wandoberflächen und Decken wurden, ausser im Dachgeschoss, bei der Brandschutzsanierung im Jahr 2007 nur überstrichen und ausgebessert. Die Schulzimmer sind teilweise in den 80-ziger Jahren saniert worden, d.h. gestrichen und neue Bodenbeläge verlegt. Die Garderobenräume, Turnhalle und Nebenräume tragen heute noch den Originalaufbau an den Wänden. Das Schulhaus Berg 2 weist Wandrisse und Spuren von unzähligen Flickarbeiten auf. Zum Werterhalt und im Sinne einer Gesamtlösung für Jahre kommt nur eine Totalsanierung in Frage. Aus betriebswirtschaftlichen Gründen drängt sich eine Verknüpfung der Arbeiten mit dem Umbau zur Realisierung der „Gruppenräume neue Sekundarschule“ auf.
+
+    Die kompletten Korridore, Schulzimmer, Singsaal, Zwischentrakt und Nebenräume des Schulhauses Berg 2 werden von Grund auf saniert. Im Zuge der Einbauten der Gruppenräume im Jahr 2011 (Genehmigung Oberstufenschulgemeindeversammlung vom 21. Juni 2010) wird mit der ersten Etappe der Sanierung im Jahre 2011 begonnen. Die zweite Etappe der Sanierung ist auf das Jahr 2012 geplant.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>17538</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3818/bilder/basis/3818_1382001470_sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</url>
+    <dateiname>sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>17539</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3818/bilder/basis/3818_1382001497_sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</url>
+    <dateiname>sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>17540</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3818/bilder/basis/3818_1382001516_sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</url>
+    <dateiname>sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</dateiname>
+</bild><bild>
+    <id>17541</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3818/bilder/basis/3818_1382001553_sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</url>
+    <dateiname>sanierung-schulhaus-berg-1-2-in-gossau-zh-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3802</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau Garten-Center Lättenmoos</titel>
+    <strasse>Florastrasse 1</strasse>
+    <plz>8632</plz>
+    <ort>Tann</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Ernst Meier AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Leuthold Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau des Gartencenters Lättenmoos an der Florastrasse 1 in Tann</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4881</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3802/bilder/basis/3802_1313053984_p4070252-jpg-jpg.JPG</url>
+    <dateiname>p4070252-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4882</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3802/bilder/basis/3802_1313053998_p4070249-jpg-jpg.JPG</url>
+    <dateiname>p4070249-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4883</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3802/bilder/basis/3802_1313054008_p4070251-jpg-jpg.JPG</url>
+    <dateiname>p4070251-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder><bild>
+        <id>4884</id>
+        <url>www.losys.ch/projekte/0/0/3/8/3802/bilder/basis/3802_2060_1313054020_p4070247-jpg-jpg.JPG</url>
+        <dateiname>p4070247-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4885</id>
+        <url>www.losys.ch/projekte/0/0/3/8/3802/bilder/basis/3802_2060_1313054026_p4070248-jpg-jpg.JPG</url>
+        <dateiname>p4070248-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4886</id>
+        <url>www.losys.ch/projekte/0/0/3/8/3802/bilder/basis/3802_2060_1313054033_p4070250-jpg-jpg.JPG</url>
+        <dateiname>p4070250-jpg-jpg.JPG</dateiname>
+    </bild></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3801</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau EFH</titel>
+    <strasse>Schönhaldenstrasse 18</strasse>
+    <plz>8708</plz>
+    <ort>Männedorf</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Atelier Urs Tischhauser dipl. Arch. FH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Einfamileinhauses an der Schönhaldenstrasse 18 in Männedorf</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4925</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3801/bilder/basis/3801_1313064904_neues-bild-4-jpg-jpg.jpg</url>
+    <dateiname>neues-bild-4-jpg-jpg.jpg</dateiname>
+</bild><bild>
+    <id>4878</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3801/bilder/basis/3801_1313053928_p4080314-jpg-jpg.JPG</url>
+    <dateiname>p4080314-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4879</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3801/bilder/basis/3801_1313053933_p4080313-jpg-jpg.JPG</url>
+    <dateiname>p4080313-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4880</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3801/bilder/basis/3801_1313053939_p4080312-jpg-jpg.JPG</url>
+    <dateiname>p4080312-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3787</id>
+    <erstellungsdatum>1312840800</erstellungsdatum>
+    <titel>MFH Park Biberstein</titel>
+    <strasse>Biberhaldenweg 22-26</strasse>
+    <plz>8708</plz>
+    <ort>Männedorf</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>GKS Architekten &amp; Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>befair partners ag</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer</arbeitsgattung>
+    <name>bevelopment ag</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Verein</arbeitsgattung>
+    <name>MINERGIE</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von 3 exklusiven Wohnhäusern mit total 8 Eigentumswohnungen im Minergie-Standard</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>10620</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3787/bilder/basis/3787_1351078426_dsc05085-jpg.JPG</url>
+    <dateiname>dsc05085-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10621</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3787/bilder/basis/3787_1351078446_dsc05086_shiftn-jpg.jpg</url>
+    <dateiname>dsc05086_shiftn-jpg.jpg</dateiname>
+</bild><bild>
+    <id>10622</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3787/bilder/basis/3787_1351078459_dsc05084-jpg.JPG</url>
+    <dateiname>dsc05084-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3783</id>
+    <erstellungsdatum>1312840800</erstellungsdatum>
+    <titel>Wohnüberbauung in Winkel-Rüti</titel>
+    <strasse>Lufingerstrasse</strasse>
+    <plz>8185</plz>
+    <ort>Winkel</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung><arbeitsgattung>Spenglerarbeiten</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Arnold-Dieterle AG Architektur + Design</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer,  Privater Bauherr</arbeitsgattung>
+    <name>Früh Immobilien AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neue Wohnüberbauung an der Lufingerstrasse, in Winkel Rüti.
+    Hier Entstehen Eigentumswohnungen im Minergie Standard.
+
+    3.5 Zi-Garten-Wohnung 110m2 ab CHF 650'000.-
+    4.5 Zi-Etagen-Wohnung 126m2 ab CHF 760'000.-
+    6.5 Zi-Attika-Wohnung 237m2 ab CHF 1'780'000.-
+
+    Das Besondere:
+    - Minergie Standard
+    - Einbauspots
+    - Cardio Heimautomationssystem
+    - Sonnige lage
+    - grossflächige Wohnungen
+    - Freie Gestaltung des Innenausbaus</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>8829</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3783/bilder/basis/3783_1342005932_dsc02550-jpg.JPG</url>
+    <dateiname>dsc02550-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3763</id>
+    <erstellungsdatum>1312754400</erstellungsdatum>
+    <titel>Neubau MFH Largo</titel>
+    <strasse>Furtstrasse</strasse>
+    <plz>8335</plz>
+    <ort>Hittnau</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer,  Bauherrenvertretung</arbeitsgattung>
+    <name>ADT INNOVA Immobilien und Verwaltungs AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Mehrfamilienhauses an der Firtstrasse in Hittnau</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4843</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_1313053198_p4070256-jpg-jpg.JPG</url>
+    <dateiname>p4070256-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4844</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_1313053211_p4070255-jpg-jpg.JPG</url>
+    <dateiname>p4070255-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4845</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_1313053217_p4070254-jpg-jpg.JPG</url>
+    <dateiname>p4070254-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4758</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_1312817478_hittnau-2-jpg-jpg.JPG</url>
+    <dateiname>hittnau-2-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4759</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_1312817485_hittnau-3-jpg-jpg.JPG</url>
+    <dateiname>hittnau-3-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4760</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_1312817491_hittnau-jpg-jpg.JPG</url>
+    <dateiname>hittnau-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder><bild>
+        <id>4846</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_2060_1313053296_img_0106-jpg-jpg.JPG</url>
+        <dateiname>img_0106-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4847</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_2060_1313053300_img_0003-jpg-jpg.JPG</url>
+        <dateiname>img_0003-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4848</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_2060_1313053306_img_000322-jpg-jpg.JPG</url>
+        <dateiname>img_000322-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4849</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3763/bilder/basis/3763_2060_1313053309_img_000522-jpg-jpg.JPG</url>
+        <dateiname>img_000522-jpg-jpg.JPG</dateiname>
+    </bild></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3573</id>
+    <erstellungsdatum>1310162400</erstellungsdatum>
+    <titel>Tobelacker Wetzikon</titel>
+    <strasse>Tobelackerstrasse 1</strasse>
+    <plz>8620</plz>
+    <ort>Wetzikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>KonzeptWerk GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Ausführungsplanung,  Privater Bauherr, Generalunternehmer</arbeitsgattung>
+    <name>R. Fuchs Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>Gartmann &amp; Jörg AG Bauingenieure</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauphysik / Akustik</arbeitsgattung>
+    <name>BB&amp;A Buri Bauphysik &amp; Akustik</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Elektroingenieur</arbeitsgattung>
+    <name>Wolfgang Bernauer</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Geologie</arbeitsgattung>
+    <name>ABI Group Baugrund &amp; Umwelt GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLKS-Ingenieur</arbeitsgattung>
+    <name>W+L Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Quellenverweis: www.rfpag.ch
+
+    Es soll ein einmaliges Mehrfamilienhaus entstehen, das
+    die Bedürfnisse der Bewohner mit Leichtigkeit erfüllt,
+    anderseits durch die eigenständige Architektur einen
+    klaren Akzent im Quartier setzt. Das moderne, repräsentative
+    Wohnhaus mit total 18 flexiblen, urbanen und
+    individuell einrichtbaren Wohnungen, soll ein gediegenes,
+    einmaliges Zuhause bieten, an zentralster Lage
+    inmitten von Wetzikon!</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4548</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3573/bilder/basis/3573_1310196325_58243866gb-kopie-jpg-jpg.jpg</url>
+    <dateiname>58243866gb-kopie-jpg-jpg.jpg</dateiname>
+</bild><bild>
+    <id>4549</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3573/bilder/basis/3573_1310196580_58243863gb-kopie-jpg-jpg.jpg</url>
+    <dateiname>58243863gb-kopie-jpg-jpg.jpg</dateiname>
+</bild><bild>
+    <id>4550</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3573/bilder/basis/3573_1310196583_58243864gb-kopie-jpg-jpg.jpg</url>
+    <dateiname>58243864gb-kopie-jpg-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3251</id>
+    <erstellungsdatum>1303164000</erstellungsdatum>
+    <titel>Wohnüberbauung BELUGA Pfäffikon</titel>
+    <strasse>Tumbelenstrasse 60a - f</strasse>
+    <plz>8330</plz>
+    <ort>Pfäffikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Kastanien Immobilien AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Ausführungsplanung</arbeitsgattung>
+    <name>HLP Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Immobilienentwicklung, Wandbeläge</arbeitsgattung>
+    <name>Augustoni &amp; Co.</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Projekt</arbeitsgattung>
+    <name>Cerv + Wachtl dipl. Arch.-Planer ETH/SIA</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Projektleitung, Bauleitung, Verkauf</arbeitsgattung>
+    <name>ADT INNOVA Immobilien und Verwaltungs AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer</arbeitsgattung>
+    <name>ADT INNOVA AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>An der Tumbelenstrasse in Pfäffikon ZH entsteht die Wohnüberbauung BELUGA mit 44 Wohnungen in 7 Mehrfamilienhäuser</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>8844</id>
+    <url>www.losys.ch/projekte/0/0/3/2/3251/bilder/basis/3251_1342020025_dsc02573-jpg.JPG</url>
+    <dateiname>dsc02573-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8849</id>
+    <url>www.losys.ch/projekte/0/0/3/2/3251/bilder/basis/3251_1342020125_dsc02576-jpg.JPG</url>
+    <dateiname>dsc02576-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8846</id>
+    <url>www.losys.ch/projekte/0/0/3/2/3251/bilder/basis/3251_1342020070_dsc02579-jpg.JPG</url>
+    <dateiname>dsc02579-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8847</id>
+    <url>www.losys.ch/projekte/0/0/3/2/3251/bilder/basis/3251_1342020088_dsc02577-jpg.JPG</url>
+    <dateiname>dsc02577-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8848</id>
+    <url>www.losys.ch/projekte/0/0/3/2/3251/bilder/basis/3251_1342020103_dsc02575-jpg.JPG</url>
+    <dateiname>dsc02575-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3979</id>
+    <erstellungsdatum>1317420000</erstellungsdatum>
+    <titel>Umbau Coop Dietlikon</titel>
+    <strasse>Industriestrasse 28</strasse>
+    <plz>8305</plz>
+    <ort>Dietlikon</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop Genossenschaft Basel</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>SZ Bauleitungen</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau Coop Dietlikon an der Industriestrasse 28 in Dietlikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>11041</id>
+    <url>www.losys.ch/projekte/0/0/3/9/3979/bilder/basis/3979_1352274018_dsc05580-jpg.JPG</url>
+    <dateiname>dsc05580-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3813</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Wohnüberbauung Riethof - Tagelswangen II</titel>
+    <strasse>Hinterrietstrasse</strasse>
+    <plz>8317</plz>
+    <ort>Tagelswangen-Lindau</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baukonsortium Tagelswangen II c/o Fuchs R. AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Akustik</arbeitsgattung>
+    <name>Leuthardt + Mäder Ingenieurbüro</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>adali engineering gmbh</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung, Architekt, Baumanagement</arbeitsgattung>
+    <name>R. Fuchs Partner AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Geologie</arbeitsgattung>
+    <name>ABI Group Baugrund &amp; Umwelt GmbH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>In der neuen Wohnüberbauung Riethof Tagelswangen II an der Hiterriedstrasse in Tagelswangen-Lindau entstehen morderne Eigentumswohnungen:
+    2.5-Zimmer-Wohnungen ab 370'000 Fr.
+    3.5-Zimmer-Wohnungen ab 470'000 Fr.
+    4.5-Zimmer-Wohnungen ab 590'000 Fr.
+    4.5-Zimmer-Wohnungen ab 940'000 Fr.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>10818</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756363_dsc05246-jpg.JPG</url>
+    <dateiname>dsc05246-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10819</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756377_dsc05247-jpg.JPG</url>
+    <dateiname>dsc05247-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10822</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756422_dsc05251-jpg.JPG</url>
+    <dateiname>dsc05251-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10815</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756315_dsc05240-jpg.JPG</url>
+    <dateiname>dsc05240-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10816</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756330_dsc05241-jpg.JPG</url>
+    <dateiname>dsc05241-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10821</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756404_dsc05250-jpg.JPG</url>
+    <dateiname>dsc05250-jpg.JPG</dateiname>
+</bild><bild>
+    <id>10817</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756349_dsc05244_shiftn-jpg.jpg</url>
+    <dateiname>dsc05244_shiftn-jpg.jpg</dateiname>
+</bild><bild>
+    <id>10820</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3813/bilder/basis/3813_1351756387_dsc05248-jpg.JPG</url>
+    <dateiname>dsc05248-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3812</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Umbau Coop Center Pfäffikon</titel>
+    <strasse>Turmstrasse 10</strasse>
+    <plz>8330</plz>
+    <ort>Pfäffikon</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop Genossenschaft Basel</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Coop</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau einer Coop Filiale an der Turmstrasse 10 in Pfäffikon ZH</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4910</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3812/bilder/basis/3812_1313054667_p4070257-jpg-jpg.JPG</url>
+    <dateiname>p4070257-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4911</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3812/bilder/basis/3812_1313054679_p4070258-jpg-jpg.JPG</url>
+    <dateiname>p4070258-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4912</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3812/bilder/basis/3812_1313054684_p4070259-jpg-jpg.JPG</url>
+    <dateiname>p4070259-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4913</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3812/bilder/basis/3812_1313054691_p4070261-jpg-jpg.JPG</url>
+    <dateiname>p4070261-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3811</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Sanierung MFH</titel>
+    <strasse>Obere Chergerten 7-14</strasse>
+    <plz>8712</plz>
+    <ort>Stäfa</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Bauherrenvertretung</arbeitsgattung>
+        <name>AXA Investment Managers Schweiz AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>von Gunten Baumanagement AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung eines Mehrfamilienhaus an der Obere Chergerten 7-14 in Stäfa</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4906</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3811/bilder/basis/3811_1313054623_p4080296-jpg-jpg.JPG</url>
+    <dateiname>p4080296-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4907</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3811/bilder/basis/3811_1313054632_p4080298-jpg-jpg.JPG</url>
+    <dateiname>p4080298-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4908</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3811/bilder/basis/3811_1313054637_p4080297-jpg-jpg.JPG</url>
+    <dateiname>p4080297-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4909</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3811/bilder/basis/3811_1313054642_p4080299-jpg-jpg.JPG</url>
+    <dateiname>p4080299-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3810</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Umbau Coop Center Herrliberg</titel>
+    <strasse>Forchstrasse 45</strasse>
+    <plz>8704</plz>
+    <ort>Herrliberg</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop Genossenschaft Basel</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Coop</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau der Coop Filiale Herrliberg an der Forchstrasse 45 in Herrliberg</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4903</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3810/bilder/basis/3810_1313054585_p4080325-jpg-jpg.JPG</url>
+    <dateiname>p4080325-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4904</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3810/bilder/basis/3810_1313054591_p4080324-jpg-jpg.JPG</url>
+    <dateiname>p4080324-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4905</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3810/bilder/basis/3810_1313054595_p4080323-jpg-jpg.JPG</url>
+    <dateiname>p4080323-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3809</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Neubau EFH</titel>
+    <strasse>Tramstrasse 108</strasse>
+    <plz>8707</plz>
+    <ort>Uetikon am See</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>R. Gubser u. G. Kofel</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Atelier Urs Tischhauser dipl. Arch. FH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Einfamileinhauses an der Tramstrasse 108 in Uetikon am See</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4900</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3809/bilder/basis/3809_1313054546_p4080316-jpg-jpg.JPG</url>
+    <dateiname>p4080316-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4901</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3809/bilder/basis/3809_1313054551_p4080317-jpg-jpg.JPG</url>
+    <dateiname>p4080317-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4902</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3809/bilder/basis/3809_1313054557_p4080318-jpg-jpg.JPG</url>
+    <dateiname>p4080318-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3808</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Umbau Coop Center Dielsdorf</titel>
+    <strasse>Niederhaslistrasse 5</strasse>
+    <plz>8157</plz>
+    <ort>Dielsdorf</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop Immobilien AG</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau des Coop Centers Dielsdorf an der Niederhaslistrasse 5 in Dielsdorf.</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>5073</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3808/bilder/basis/3808_1314346321_w900-h600-3787_1313054242_img_1573-jpg-jpg-jpg.JPG</url>
+    <dateiname>w900-h600-3787_1313054242_img_1573-jpg-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>5074</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3808/bilder/basis/3808_1314346326_w900-h600-3787_1313054250_img_1572-jpg-jpg-jpg.JPG</url>
+    <dateiname>w900-h600-3787_1313054250_img_1572-jpg-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>5075</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3808/bilder/basis/3808_1314346331_w900-h600-3787_1313054258_img_1579-jpg-jpg-jpg.JPG</url>
+    <dateiname>w900-h600-3787_1313054258_img_1579-jpg-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>5076</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3808/bilder/basis/3808_1314346335_w900-h600-3787_1313054263_img_1577-jpg-jpg-jpg.JPG</url>
+    <dateiname>w900-h600-3787_1313054263_img_1577-jpg-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3761</id>
+    <erstellungsdatum>1312754400</erstellungsdatum>
+    <titel>Wohnüberbauung Tolacker</titel>
+    <strasse>Tolackerstrasse</strasse>
+    <plz>8604</plz>
+    <ort>Volketswil</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Hans O. Peter</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Peter &amp; Partner Architekten AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung Tolacker an der Tolackerstrasse in Volketswil</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4752</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3761/bilder/basis/3761_1312815358_tolacker1-jpg-jpg.JPG</url>
+    <dateiname>tolacker1-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4822</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3761/bilder/basis/3761_1313052827_p4070275-jpg-jpg.JPG</url>
+    <dateiname>p4070275-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4823</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3761/bilder/basis/3761_1313052832_p4070273-jpg-jpg.JPG</url>
+    <dateiname>p4070273-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4824</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3761/bilder/basis/3761_1313052837_p4070274-jpg-jpg.JPG</url>
+    <dateiname>p4070274-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3758</id>
+    <erstellungsdatum>1312754400</erstellungsdatum>
+    <titel>Wohnüberbauung Breiti III</titel>
+    <strasse>Alte Winterthurerstrasse</strasse>
+    <plz>8309</plz>
+    <ort>Nürensdorf</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baukonsortium Breiti III c/o Fuchs R. Partner AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>R. Fuchs Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau einer Wohnüberbauung aus Mehrfamilienhäusern Im Seewadel in Nürensdorf</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4743</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3758/bilder/basis/3758_1312810758_breiti2-jpg-jpg.JPG</url>
+    <dateiname>breiti2-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4744</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3758/bilder/basis/3758_1312810767_breiti1-jpg-jpg.JPG</url>
+    <dateiname>breiti1-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4745</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3758/bilder/basis/3758_1312810773_breiti-jpg-jpg.JPG</url>
+    <dateiname>breiti-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4746</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3758/bilder/basis/3758_1312810779_breiti3-jpg-jpg.JPG</url>
+    <dateiname>breiti3-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4747</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3758/bilder/basis/3758_1312810786_breiti4-jpg-jpg.JPG</url>
+    <dateiname>breiti4-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3568</id>
+    <erstellungsdatum>1310162400</erstellungsdatum>
+    <titel>Nasszellensanierung MFH</titel>
+    <strasse>Herweg 18 / 20-24 / 28-32</strasse>
+    <plz>8708</plz>
+    <ort>Männedorf</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Pensionskasse der Siemens-Gesellschaften in der Schweiz</name>
+    </firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr, Architekt</arbeitsgattung>
+        <name>VERIT Verwaltungs- und Immobilien-Gesellschaft</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLKS-Ingenieur</arbeitsgattung>
+    <name>W+L Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung der Nasszellen in den Mehrfamilienhäusern Herweg 18 / 20-24 / 28-32 in Männedorf</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4896</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3568/bilder/basis/3568_1313054351_p4080306-jpg-jpg.JPG</url>
+    <dateiname>p4080306-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4897</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3568/bilder/basis/3568_1313054359_p4080305-jpg-jpg.JPG</url>
+    <dateiname>p4080305-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4898</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3568/bilder/basis/3568_1313054366_p4080304-jpg-jpg.JPG</url>
+    <dateiname>p4080304-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4899</id>
+    <url>www.losys.ch/projekte/0/0/3/5/3568/bilder/basis/3568_1313054372_p4080307-jpg-jpg.JPG</url>
+    <dateiname>p4080307-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3140</id>
+    <erstellungsdatum>1300057200</erstellungsdatum>
+    <titel>Bellagio Männedorf</titel>
+    <strasse>Alte Landstrasse</strasse>
+    <plz>8708</plz>
+    <ort>Männedorf</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Thaler Group AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Elektroplanung</arbeitsgattung>
+    <name>Odermatt AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Energiecontracting</arbeitsgattung>
+    <name>Elektrizitätswerke des Kantons Zürich (EKZ)</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Entwurf</arbeitsgattung>
+    <name>Cerv + Wachtl dipl. Arch.-Planer ETH/SIA</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer, Ausführungsplanung</arbeitsgattung>
+    <name>HLP Architekten AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer, Marketingkonzept, Verkauf</arbeitsgattung>
+    <name>ADT INNOVA Immobilien und Verwaltungs AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Verein</arbeitsgattung>
+    <name>MINERGIE</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Auf Frühling 2010 entstehen hier 39 Eigentumswohnungen im MINERGIE - Standard. Zur Auswahl stehen grossflächige 3.5- bis 6.5 - Zimmerwohnungen mit teilweiser Seesicht ab CHF 930'000.-</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4850</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1313053378_p4080300-jpg-jpg.JPG</url>
+    <dateiname>p4080300-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4851</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1313053384_p4080301-jpg-jpg.JPG</url>
+    <dateiname>p4080301-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>3348</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1300090745_bellagio1-jpg-jpg.jpg</url>
+    <dateiname>bellagio1-jpg-jpg.jpg</dateiname>
+</bild><bild>
+    <id>4852</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1313053389_p4080302-jpg-jpg.JPG</url>
+    <dateiname>p4080302-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4853</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1313053394_p4080303-jpg-jpg.JPG</url>
+    <dateiname>p4080303-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>3349</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1300090751_neues-bild-1-jpg-jpg.jpg</url>
+    <dateiname>neues-bild-1-jpg-jpg.jpg</dateiname>
+</bild><bild>
+    <id>3350</id>
+    <url>www.losys.ch/projekte/0/0/3/1/3140/bilder/basis/3140_1300090755_neues-bild-2-jpg-jpg.jpg</url>
+    <dateiname>neues-bild-2-jpg-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3806</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Umbau Coop Megastore Hinwil</titel>
+    <strasse>Wässeristrasse 38</strasse>
+    <plz>8340</plz>
+    <ort>Hinwil</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau des Coop Megastore Hinwil an der Wässeristrasse 38</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4893</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3806/bilder/basis/3806_1313054193_p4070284-jpg-jpg.JPG</url>
+    <dateiname>p4070284-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4894</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3806/bilder/basis/3806_1313054200_p4070287-jpg-jpg.JPG</url>
+    <dateiname>p4070287-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4895</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3806/bilder/basis/3806_1313054205_p4070286-jpg-jpg.JPG</url>
+    <dateiname>p4070286-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3803</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Umbau Coop Männedorf</titel>
+    <strasse>Dammstrasse 18</strasse>
+    <plz>8708</plz>
+    <ort>Männedorf</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr, Bauleitung</arbeitsgattung>
+        <name>Coop</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau der Coop-Filiale Männedorf an der Dammstrasse 18</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4887</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3803/bilder/basis/3803_1313054086_p4080308-jpg-jpg.JPG</url>
+    <dateiname>p4080308-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4888</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3803/bilder/basis/3803_1313054094_p4080311-jpg-jpg.JPG</url>
+    <dateiname>p4080311-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4889</id>
+    <url>www.losys.ch/projekte/0/0/3/8/3803/bilder/basis/3803_1313054099_p4080309-jpg-jpg.JPG</url>
+    <dateiname>p4080309-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3799</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau Coop Feldmeilen</titel>
+    <strasse>General-Wille-Strasse 115</strasse>
+    <plz>8706</plz>
+    <ort>Feldmeilen</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohn- und Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr, Bauleitung</arbeitsgattung>
+        <name>Coop</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau einer Coop Filiale an der General-Wille-Strasse 115 in Feldmeilen</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4875</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3799/bilder/basis/3799_1313053888_img_0849-jpg-jpg.JPG</url>
+    <dateiname>img_0849-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4876</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3799/bilder/basis/3799_1313053894_img_0846-jpg-jpg.JPG</url>
+    <dateiname>img_0846-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4877</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3799/bilder/basis/3799_1313053898_img_0844-jpg-jpg.JPG</url>
+    <dateiname>img_0844-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3798</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Wohnüberbauung See ca</titel>
+    <strasse>Aufdorfstrasse</strasse>
+    <plz>8708</plz>
+    <ort>Männedorf</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung See ca an der Aufdorfstrasse in Männedorf</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4858</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_1313053548_img_0229-jpg-jpg.JPG</url>
+    <dateiname>img_0229-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4859</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_1313053552_img_0230-jpg-jpg.JPG</url>
+    <dateiname>img_0230-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4860</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_1313053573_img_0231-jpg-jpg.JPG</url>
+    <dateiname>img_0231-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4861</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_1313053599_img_0235-jpg-jpg.JPG</url>
+    <dateiname>img_0235-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder><bild>
+        <id>4862</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053625_img_0232-jpg-jpg.JPG</url>
+        <dateiname>img_0232-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4863</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053629_img_0233-jpg-jpg.JPG</url>
+        <dateiname>img_0233-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4864</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053633_img_0234-jpg-jpg.JPG</url>
+        <dateiname>img_0234-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4865</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053642_img_0237-jpg-jpg.JPG</url>
+        <dateiname>img_0237-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4866</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053645_img_0238-jpg-jpg.JPG</url>
+        <dateiname>img_0238-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4867</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053650_img_0239-jpg-jpg.JPG</url>
+        <dateiname>img_0239-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4868</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053662_img_0240-jpg-jpg.JPG</url>
+        <dateiname>img_0240-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4869</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053668_img_0246-jpg-jpg.JPG</url>
+        <dateiname>img_0246-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4870</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053681_img_0243-jpg-jpg.JPG</url>
+        <dateiname>img_0243-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4871</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053686_img_0241-jpg-jpg.JPG</url>
+        <dateiname>img_0241-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4872</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053692_img_0242-jpg-jpg.JPG</url>
+        <dateiname>img_0242-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4873</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053704_img_0244-jpg-jpg.JPG</url>
+        <dateiname>img_0244-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4874</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3798/bilder/basis/3798_2060_1313053710_img_0245-jpg-jpg.JPG</url>
+        <dateiname>img_0245-jpg-jpg.JPG</dateiname>
+    </bild></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3796</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Wohnüberbauung ALEA</titel>
+    <strasse>Hochstrasse</strasse>
+    <plz>8330</plz>
+    <ort>Pfäffikon</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>R. Fuchs AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung, Architekt</arbeitsgattung>
+    <name>Arnold-Dieterle AG Architektur + Design</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung ALEA an der Hochstrasse in Pfäffikon ZH. Eine moderne und stilvolle Wohnüberbauung in unmittelbarer Nähe zum See.
+
+    Hier entstehen 31/2 bis 51/2 Zimmer-Eigentmuswohnugnen ab CHF 460'000</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>8858</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3796/bilder/basis/3796_1342084312_dsc01030-jpg.JPG</url>
+    <dateiname>dsc01030-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8859</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3796/bilder/basis/3796_1342084343_dsc02600-jpg.JPG</url>
+    <dateiname>dsc02600-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8860</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3796/bilder/basis/3796_1342084365_dsc02592-jpg.JPG</url>
+    <dateiname>dsc02592-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8861</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3796/bilder/basis/3796_1342084391_dsc02589-jpg.JPG</url>
+    <dateiname>dsc02589-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8862</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3796/bilder/basis/3796_1342084407_dsc02585-jpg.JPG</url>
+    <dateiname>dsc02585-jpg.JPG</dateiname>
+</bild><bild>
+    <id>8863</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3796/bilder/basis/3796_1342084420_dsc02587-jpg.JPG</url>
+    <dateiname>dsc02587-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3792</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Wohnüberbauung Schönenberg</titel>
+    <strasse>Im Schönenberg / Chrüzacherstrasse</strasse>
+    <plz>8340</plz>
+    <ort>Hinwil</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Allreal Generalunternehmung AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung Schönenberg in Hinwil</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4832</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3792/bilder/basis/3792_1313052993_img_0027-jpg-jpg.JPG</url>
+    <dateiname>img_0027-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder><bild>
+        <id>4833</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3792/bilder/basis/3792_2060_1313053003_img_0240-jpg-jpg.JPG</url>
+        <dateiname>img_0240-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4834</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3792/bilder/basis/3792_2060_1313053008_img_0219-jpg-jpg.JPG</url>
+        <dateiname>img_0219-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4835</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3792/bilder/basis/3792_2060_1313053013_foto-1-jpg-jpg.JPG</url>
+        <dateiname>foto-1-jpg-jpg.JPG</dateiname>
+    </bild></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3791</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau EFH</titel>
+    <strasse>Rosenacherstrasse / Ringstrasse</strasse>
+    <plz>8317</plz>
+    <ort>Tagelswangen</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baukonsortium Tagelswangen c/o Fuchs R. AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>R. Fuchs Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Einfamilienhauses an der Rosenacherstrasse in Tagelswangen</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4825</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3791/bilder/basis/3791_1313052871_27-6017-jpg-jpg.JPG</url>
+    <dateiname>27-6017-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4826</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3791/bilder/basis/3791_1313052882_27-6017-3-jpg-jpg.JPG</url>
+    <dateiname>27-6017-3-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4827</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3791/bilder/basis/3791_1313052891_27-6017-2-jpg-jpg.JPG</url>
+    <dateiname>27-6017-2-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3777</id>
+    <erstellungsdatum>1312840800</erstellungsdatum>
+    <titel>Wohnüberbauung Flair</titel>
+    <strasse>In der Höh 2/4/6/8/10 - Chlirietstrasse 20</strasse>
+    <plz>8604</plz>
+    <ort>Volketswil</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baugesellschaft Flair c/o Beat Odinga AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Priora Generalunternehmung AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung Flair in Volketswil In der Höh 2/4/6/8/10 - Chlirietstrasse 20</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4814</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3777/bilder/basis/3777_1313052719_p4070276-jpg-jpg.JPG</url>
+    <dateiname>p4070276-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4815</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3777/bilder/basis/3777_1313052725_p4070279-jpg-jpg.JPG</url>
+    <dateiname>p4070279-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4816</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3777/bilder/basis/3777_1313052731_p4070278-jpg-jpg.JPG</url>
+    <dateiname>p4070278-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4817</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3777/bilder/basis/3777_1313052736_p4070277-jpg-jpg.JPG</url>
+    <dateiname>p4070277-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>1501</id>
+    <erstellungsdatum>1253138400</erstellungsdatum>
+    <titel>Neubau 2 MFH Mettlen</titel>
+    <strasse>Wilhofstrasse 4</strasse>
+    <plz>8332</plz>
+    <ort>Russikon</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt,  Privater Bauherr</arbeitsgattung>
+    <name>Burkhard + Canella GmbH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von 2 Mehrfamilienhäusern an der Wilhofstrasse 4 in Russikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4854</id>
+    <url>www.losys.ch/projekte/0/0/1/5/1501/bilder/basis/1501_1313053454_p4070263-jpg-jpg.JPG</url>
+    <dateiname>p4070263-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4855</id>
+    <url>www.losys.ch/projekte/0/0/1/5/1501/bilder/basis/1501_1313053462_p4070264-jpg-jpg.JPG</url>
+    <dateiname>p4070264-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4856</id>
+    <url>www.losys.ch/projekte/0/0/1/5/1501/bilder/basis/1501_1313053468_p4070262-jpg-jpg.JPG</url>
+    <dateiname>p4070262-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4857</id>
+    <url>www.losys.ch/projekte/0/0/1/5/1501/bilder/basis/1501_1313053472_p4070265-jpg-jpg.JPG</url>
+    <dateiname>p4070265-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>1040</id>
+    <erstellungsdatum>1253138400</erstellungsdatum>
+    <titel>4 MFH Püngertli II</titel>
+    <strasse>Püngertli</strasse>
+    <plz>8484</plz>
+    <ort>Weisslingen</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>R. Moser</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>R. Fuchs Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von 4 Mehrfamilienhäusern in Weisslingen</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4828</id>
+    <url>www.losys.ch/projekte/0/0/1/0/1040/bilder/basis/1040_1313052931_p4070267-jpg-jpg.JPG</url>
+    <dateiname>p4070267-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4829</id>
+    <url>www.losys.ch/projekte/0/0/1/0/1040/bilder/basis/1040_1313052942_27-6020-jpg-jpg.JPG</url>
+    <dateiname>27-6020-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4830</id>
+    <url>www.losys.ch/projekte/0/0/1/0/1040/bilder/basis/1040_1313052948_p4070268-jpg-jpg.JPG</url>
+    <dateiname>p4070268-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4831</id>
+    <url>www.losys.ch/projekte/0/0/1/0/1040/bilder/basis/1040_1313052956_p4070266-jpg-jpg.JPG</url>
+    <dateiname>p4070266-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>997</id>
+    <erstellungsdatum>1253138400</erstellungsdatum>
+    <titel>Neubau Migros Rüschlikon-Parkside</titel>
+    <strasse>Zürcherstrasse 4</strasse>
+    <plz>8803</plz>
+    <ort>Rüschlikon</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Migros Genossenschaft Zürich</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>GMZ Planen und Bauen</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Baumanagement</arbeitsgattung>
+    <name>S+B Baumanagement AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Evakuationskonzept</arbeitsgattung>
+    <name>Conti Swiss AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Haustechnikplanung</arbeitsgattung>
+    <name>BLM HAUSTECHNIK AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Migros Filiale in Zürich Rüschlikon an der Zürcherstrasse 4</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>16507</id>
+    <url>www.losys.ch/projekte/0/0/0/9/997/bilder/basis/997_1375950729_neubau-migros-rueschlikon-parkside-jpg.jpg</url>
+    <dateiname>neubau-migros-rueschlikon-parkside-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>816</id>
+    <erstellungsdatum>1253138400</erstellungsdatum>
+    <titel>Wohnübrbauung Tannenberg</titel>
+    <strasse>Tannenbergstrasse</strasse>
+    <plz>8625</plz>
+    <ort>Gossau</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Universe Architecture &amp; Engineering Ltd</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Züger Martin AG dipl. Architekt FH/SIA</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>Ingena Ingenieurbüro für Hoch-&amp; Tiefbau AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>WG Immobilien AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLKS-Ingenieur</arbeitsgattung>
+    <name>W+L Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neue Wohnüberbauung Tannenberg an der Tannenbergstrasse in Gossau</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4890</id>
+    <url>www.losys.ch/projekte/0/0/0/8/816/bilder/basis/816_1313054130_p4080330-jpg-jpg.JPG</url>
+    <dateiname>p4080330-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4891</id>
+    <url>www.losys.ch/projekte/0/0/0/8/816/bilder/basis/816_1313054136_p4080332-jpg-jpg.JPG</url>
+    <dateiname>p4080332-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4892</id>
+    <url>www.losys.ch/projekte/0/0/0/8/816/bilder/basis/816_1313054141_p4080331-jpg-jpg.JPG</url>
+    <dateiname>p4080331-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>794</id>
+    <erstellungsdatum>1253138400</erstellungsdatum>
+    <titel>Gableracker</titel>
+    <strasse>Gablerackerstrasse</strasse>
+    <plz>8610</plz>
+    <ort>Uster</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Fröhlich Architektur + Design GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauingenieur</arbeitsgattung>
+    <name>HTB Ingenieure + Planer AG Ingenieurbüro</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Werubau AG Generalunternehmung</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Exklusiv Wohnen in Wermatswil bei Uster
+
+    - 5.5 Zimmer Wohnungen und
+    - 4.5 Zimmer Attika Wohnungen</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>6179</id>
+    <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_1324054735_aussenbild-gableracker-jpg-jpg.jpg</url>
+    <dateiname>aussenbild-gableracker-jpg-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder><bild>
+        <id>4807</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052640_fr-040-jpg-jpg.jpg</url>
+        <dateiname>fr-040-jpg-jpg.jpg</dateiname>
+    </bild><bild>
+        <id>4808</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052645_fr-043-jpg-jpg.jpg</url>
+        <dateiname>fr-043-jpg-jpg.jpg</dateiname>
+    </bild><bild>
+        <id>4809</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052653_fr-039-jpg-jpg.jpg</url>
+        <dateiname>fr-039-jpg-jpg.jpg</dateiname>
+    </bild><bild>
+        <id>4810</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052660_fr-041-jpg-jpg.jpg</url>
+        <dateiname>fr-041-jpg-jpg.jpg</dateiname>
+    </bild><bild>
+        <id>4811</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052666_dsc00088-jpg-jpg.JPG</url>
+        <dateiname>dsc00088-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4812</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052673_img_0126-jpg-jpg.JPG</url>
+        <dateiname>img_0126-jpg-jpg.JPG</dateiname>
+    </bild><bild>
+        <id>4813</id>
+        <url>www.losys.ch/projekte/0/0/0/7/794/bilder/basis/794_2060_1313052680_img_0070-jpg-jpg.JPG</url>
+        <dateiname>img_0070-jpg-jpg.JPG</dateiname>
+    </bild></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>38</id>
+    <erstellungsdatum>1253138400</erstellungsdatum>
+    <titel>Neubau 3 EFH</titel>
+    <strasse>Rundihalde 3</strasse>
+    <plz>8707</plz>
+    <ort>Uetikon am See</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>M. Furrer</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Atelier Urs Tischhauser dipl. Arch. FH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von drei Einfamilienhäuser an der Rundihalde in Uetikon am See</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4836</id>
+    <url>www.losys.ch/projekte/0/0/0/0/38/bilder/basis/38_1313053049_p4080320-jpg-jpg.JPG</url>
+    <dateiname>p4080320-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4837</id>
+    <url>www.losys.ch/projekte/0/0/0/0/38/bilder/basis/38_1313053055_p4080321-jpg-jpg.JPG</url>
+    <dateiname>p4080321-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4838</id>
+    <url>www.losys.ch/projekte/0/0/0/0/38/bilder/basis/38_1313053060_p4080322-jpg-jpg.JPG</url>
+    <dateiname>p4080322-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3795</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>MM/MR Schinzenhof</titel>
+    <strasse>Alte Landstrasse 24</strasse>
+    <plz>8810</plz>
+    <ort>Horgen</ort>
+    <baujahr>2008</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Öffentliche Bauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Migros Genossenschaft Zürich</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Evakuationskonzept</arbeitsgattung>
+    <name>Conti Swiss AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Sanitäringenieur</arbeitsgattung>
+    <name>Friedrich Haustechnik AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung Schinzenhof an der Alte Landstrasse 24 in Horgen</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>13514</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3795/bilder/basis/3795_1369722377_mm-mr-schinzenhof-jpg.jpg</url>
+    <dateiname>mm-mr-schinzenhof-jpg.jpg</dateiname>
+</bild><bild>
+    <id>13515</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3795/bilder/basis/3795_1369722387_mm-mr-schinzenhof-jpg.jpg</url>
+    <dateiname>mm-mr-schinzenhof-jpg.jpg</dateiname>
+</bild><bild>
+    <id>13516</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3795/bilder/basis/3795_1369722400_mm-mr-schinzenhof-jpg.jpg</url>
+    <dateiname>mm-mr-schinzenhof-jpg.jpg</dateiname>
+</bild><bild>
+    <id>13517</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3795/bilder/basis/3795_1369722414_mm-mr-schinzenhof-jpg.jpg</url>
+    <dateiname>mm-mr-schinzenhof-jpg.jpg</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3794</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau DEFH</titel>
+    <strasse>Allenbergstrasse 63a/b</strasse>
+    <plz>8712</plz>
+    <ort>Stäfa</ort>
+    <baujahr>2008</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Ph. u. E. Suter-Walckiers</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Atelier Urs Tischhauser dipl. Arch. FH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Doppel-Einfamilienhaus an der Allenbergstrasse 63a/b in Stäfa</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4839</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3794/bilder/basis/3794_1313053096_p4080292-jpg-jpg.JPG</url>
+    <dateiname>p4080292-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4840</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3794/bilder/basis/3794_1313053106_p4080294-jpg-jpg.JPG</url>
+    <dateiname>p4080294-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4841</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3794/bilder/basis/3794_1313053111_p4080295-jpg-jpg.JPG</url>
+    <dateiname>p4080295-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder><bild>
+        <id>4842</id>
+        <url>www.losys.ch/projekte/0/0/3/7/3794/bilder/basis/3794_2060_1313053129_photo-jpg-jpg.jpg</url>
+        <dateiname>photo-jpg-jpg.jpg</dateiname>
+    </bild></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3789</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau Wohnhaus</titel>
+    <strasse>Hüssenbüelstrasse</strasse>
+    <plz>8340</plz>
+    <ort>Hinwil</ort>
+    <baujahr>2008</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baugsellschaft Sonnenhof</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Iten + Partner Architektur AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Wohnhauses an der Hüssenbüelstrasse in Hinwil</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4804</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3789/bilder/basis/3789_1313052532_p4070288-jpg-jpg.JPG</url>
+    <dateiname>p4070288-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4805</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3789/bilder/basis/3789_1313052544_p4070289-jpg-jpg.JPG</url>
+    <dateiname>p4070289-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4806</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3789/bilder/basis/3789_1313052549_p4070290-jpg-jpg.JPG</url>
+    <dateiname>p4070290-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3778</id>
+    <erstellungsdatum>1312840800</erstellungsdatum>
+    <titel>Wohnüberabuung Stammbaum</titel>
+    <strasse>.</strasse>
+    <plz>8604</plz>
+    <ort>Hegnau-Volketswil</ort>
+    <baujahr>2008</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>E. Saxer</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Peter &amp; Partner Architekten AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung Stammbaum in Hegnau-Volketswil</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder><bild>
+    <id>4818</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3778/bilder/basis/3778_1313052775_p4070269-jpg-jpg.JPG</url>
+    <dateiname>p4070269-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4819</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3778/bilder/basis/3778_1313052781_p4070272-jpg-jpg.JPG</url>
+    <dateiname>p4070272-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4820</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3778/bilder/basis/3778_1313052786_p4070270-jpg-jpg.JPG</url>
+    <dateiname>p4070270-jpg-jpg.JPG</dateiname>
+</bild><bild>
+    <id>4821</id>
+    <url>www.losys.ch/projekte/0/0/3/7/3778/bilder/basis/3778_1313052791_p4070271-jpg-jpg.JPG</url>
+    <dateiname>p4070271-jpg-jpg.JPG</dateiname>
+</bild></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5597</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau DEFH</titel>
+    <strasse>Rainweg / Sonnenbergweg</strasse>
+    <plz>8703</plz>
+    <ort>Erlenbach</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Werubau AG Generalunternehmung</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eine Doppeleinfamilienhauses am Sonnenbergweg in Erlenbach</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5596</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau Gewerbehaus</titel>
+    <strasse>Garstligweg 6</strasse>
+    <plz>8634</plz>
+    <ort>Hombrechtikon</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Qiagen AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Kohler Christian AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>VARIOSERV AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Gewerbehauses am Garstligweg 6 in Hombrechtikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5595</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau Etzelpark</titel>
+    <strasse>.</strasse>
+    <plz>8640</plz>
+    <ort>Rapperswil-Jona</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>A. + F. Affentranger</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Ziegler + Partner</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau Etzelpark in Rapperswil-Jona</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5594</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Neubau 2 MFH</titel>
+    <strasse>Aubrigweg</strasse>
+    <plz>8634</plz>
+    <ort>Hombrechtikon</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>KonzeptWerk GmbH</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Totalunternehmer</arbeitsgattung>
+    <name>Wohntraum GmbH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau von zwei Mehrfamilienhäuser am Aubrigweg in Hombrechtikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5593</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Wohnüberbauung Breiti</titel>
+    <strasse>Quentlistrasse</strasse>
+    <plz>8193</plz>
+    <ort>Eglisau</ort>
+    <baujahr>2012</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Ingena AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>WG Immobilien AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Generalunternehmer</arbeitsgattung>
+    <name>Inobag AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Die neue Wohnüberbauung Breiti, an der Quentlistrasse in Eglisau, umfasst zwei Mehrfamilienhäuser mit 22 Mietwohnungen und einer Tiefgarage</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5653</id>
+    <erstellungsdatum>1342994400</erstellungsdatum>
+    <titel>Neubau MFH</titel>
+    <strasse>Rotfluhstrasse</strasse>
+    <plz>8702</plz>
+    <ort>Zollikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Baukonsortium Zollikon, Rotfluhstrasse, c/o R. Fuchs AG</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>R. Fuchs Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau eines Mehrfamilienhauses an der Rotfluhstrasse in Zollikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5589</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Umbau VANITY-MED</titel>
+    <strasse>Utoquai 41</strasse>
+    <plz>8008</plz>
+    <ort>Zürich</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Spitalbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Vanity Cosmetics AG Zürich</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau der Einrichtung VANITY-MED am Utoquai 41 in Zürich Seefeld</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5587</id>
+    <erstellungsdatum>1342130400</erstellungsdatum>
+    <titel>Umbau Mogros</titel>
+    <strasse>Eisenbahnstrasse 2</strasse>
+    <plz>8840</plz>
+    <ort>Einsiedeln</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Genossenschaft Migros Zürich</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Haustechnikplanung</arbeitsgattung>
+    <name>BLM HAUSTECHNIK AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau einer Migros Filiale an der Eisenbahnstrasse 2 in Einsiedeln</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5555</id>
+    <erstellungsdatum>1341525600</erstellungsdatum>
+    <titel>Sanierung Schulhaus Binzholz</titel>
+    <strasse>Schulhausstrasse 6</strasse>
+    <plz>8636</plz>
+    <ort>Wald ZH</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Öffentliche Bauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Öffentlicher Bauherr</arbeitsgattung>
+        <name>Gemeinde Wald</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Rütti &amp; Partner Architekten AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung des denkmalgeschützten Schulhauses Binzholz an der Schulhausstrasse 6 in Wald</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>5553</id>
+    <erstellungsdatum>1341525600</erstellungsdatum>
+    <titel>Sanierung MFH</titel>
+    <strasse>Rapperswilerstrasse 41</strasse>
+    <plz>8620</plz>
+    <ort>Wetzikon</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Sanierung</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>M. Nickisch</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>Leuthold Partner AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Sanierung eines Mehrfamilienhauses an der Rapperswilerstrasse 41 in Wetzikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3797</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Umbau Migros</titel>
+    <strasse>Untere Bahnhofstrasse</strasse>
+    <plz>8640</plz>
+    <ort>Rapperswil</ort>
+    <baujahr>2011</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Wohn- und Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>GMZ Planen und Bauen</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau der Migrosfiliale an der Untere Bahnhofstrasse in Rapperswil-Jona</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3807</id>
+    <erstellungsdatum>1313013600</erstellungsdatum>
+    <titel>Umbau Migros Zürich-Wiedikon</titel>
+    <strasse>Gutstrasse 7</strasse>
+    <plz>8055</plz>
+    <ort>Zürich</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Migros Genossenschaft Zürich</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Haustechnikplanung</arbeitsgattung>
+    <name>BLM HAUSTECHNIK AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau der Migros Filiale in Zürich Wiedikon an der Gutstrasse 7</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3805</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Wohnüberbauung Limmatblick</titel>
+    <strasse>Limmatweg</strasse>
+    <plz>8953</plz>
+    <ort>Dietikon</ort>
+    <baujahr>2010</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>siedlungsgenossenschaft Eigengrund Zürich</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Architekt</arbeitsgattung>
+    <name>s.a.c.h. architekten Sabatino + Chiasera</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung, Generalunternehmer</arbeitsgattung>
+    <name>Implenia Generalunternehmung AG</name>
+</firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>HLK Planer</arbeitsgattung>
+    <name>3-Plan Haustechnik AG</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neubau der Wohnüberbauung Limmatblick am Limmatweg in Dietikon</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3804</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Neubau Coop Schwanden</titel>
+    <strasse>Hauptstrasse 42</strasse>
+    <plz>8762</plz>
+    <ort>Schwanden</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Neubau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Neuabu des Coop-Centers Schwanden an der Hauptstrasse 42</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3800</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Umbau Coop Glarus</titel>
+    <strasse>Burgstrasse 6-8</strasse>
+    <plz>8750</plz>
+    <ort>Glarus</ort>
+    <baujahr>2009</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Gewerbebauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop</name>
+    </firma><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>Coop Genossenschaft Basel</name>
+    </firma></bauherren><fachplaner></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau einer Coop Filiale an der Burgstrasse 6-8 in Glarus</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt><objekt>
+    <id>3793</id>
+    <erstellungsdatum>1312927200</erstellungsdatum>
+    <titel>Umbau EFH</titel>
+    <strasse>In der Gass 4</strasse>
+    <plz>8627</plz>
+    <ort>Grüningen</ort>
+    <baujahr>2008</baujahr>
+    <bauart>Umbau</bauart>
+    <bautyp>Wohnungsbauten</bautyp><arbeitsgattungen>
+    <!-- mindestens eine <arbeitsgattung>, mehrere moeglich --><arbeitsgattung>Sanitärinstallationen</arbeitsgattung></arbeitsgattungen><firmen>
+    <bauherren><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+        <arbeitsgattung> Privater Bauherr</arbeitsgattung>
+        <name>R. Ochsner</name>
+    </firma></bauherren><fachplaner><!-- kein, einer oder mehrere <firma> moeglich --><firma>
+    <arbeitsgattung>Bauleitung</arbeitsgattung>
+    <name>Atelier Urs Tischhauser dipl. Arch. FH</name>
+</firma></fachplaner>
+</firmen><beschreibungen>
+    <!-- nur eine <objektbeschreibung> moeglich --><objektbeschreibung>Umbau eines Einfamilienhauses In der Gass 4 in Grüningen</objektbeschreibung><!-- keine, eine oder mehrere <detailbeschreibung> moeglich-->
+    <detailbeschreibungen></detailbeschreibungen>
+</beschreibungen> <bilder>
+    <!-- kein, ein oder mehrere <objektbilder> moeglich --><objektbilder></objektbilder>
+    <!-- kein, ein oder mehrere <detailbilder> moeglich -->
+    <detailbilder></detailbilder>
+</bilder><dokumente>
+    <!-- kein, ein oder mehrere <dokument> moeglich --></dokumente>
+</objekt></objekte>
+</referenzdaten>

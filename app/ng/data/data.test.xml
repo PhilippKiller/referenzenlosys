@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<referenzdaten>
+    <objekte>
+        <objekt>
+            <arbeitsgattungen>
+                <arbeitsgattung>Sanitäranlagen</arbeitsgattung>
+            </arbeitsgattungen>
+            <bilder>
+                <objektbilder>
+                    <bild>
+                        <id>15857</id>
+                    </bild>
+                </objektbilder>
+            </bilder>
+        </objekt>
+        <objekt>
+            <arbeitsgattungen>
+                <arbeitsgattung>Sanitäranlagen</arbeitsgattung>
+            </arbeitsgattungen>
+            <bilder>
+                <objektbilder>
+                    <bild>
+                        <id>15857</id>
+                    </bild>
+                </objektbilder>
+            </bilder>
+        </objekt>
+    </objekte>
+</referenzdaten>

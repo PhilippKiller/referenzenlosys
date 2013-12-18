@@ -1,0 +1,73 @@
+<!DOCTYPE html><html>
+<head>
+	<title>PhotoSwipe</title>
+	<meta name="author" content="Code Computerlove - http://www.codecomputerlove.com/" />
+	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+	<link href="styles.css" type="text/css" rel="stylesheet" />
+	
+	<link href="../photoswipe.css" type="text/css" rel="stylesheet" />
+	
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script type="text/javascript" src="../lib/simple-inheritance.min.js"></script>
+	<script type="text/javascript" src="../code-photoswipe-1.0.11.min.js"></script>
+	
+	
+	<script type="text/javascript">
+		
+		$(document).ready(function(){
+			
+			$("#Gallery a").photoSwipe();
+					
+		});
+		
+		/*
+			This example shows how to set up PhotoSwipe using the jQuery plugin.
+			It does not use jQuery as the engine so is still running on the 
+			optimised version for mobile devices, WebKit browsers and Mozilla
+			
+			To pass your own settings:
+			
+			$("#Gallery a").photoSwipe({
+				loop: false
+			});
+		*/
+		
+	</script>
+	
+</head>
+<body>
+
+<div id="Header">
+	<a href="http://www.codecomputerlove.com"><img src="images/codecomputerlovelogo.gif" width="230" height="48" alt="Code Computerlove" /></a>
+</div>
+
+<div id="MainContent">
+
+	<div class="page-content">
+		<h1>PhotoSwipe</h1>
+	</div>
+	
+	
+	<div id="Gallery">
+
+        <a href="//www.losys.ch/projekte/0/0/7/1/7120/bilder/basis/7120_1374506983_neubau-3-mfh-jpg.jpg" ng-repeat="bild in r.bilder.objektbilder.bild" class="ng-scope"><img style="width:45px;" ng-show="bild.url_thumbnail" src="//www.losys.ch/projekte/0/0/7/1/7120/bilder/fitted/w150-h100-7120_1374506983_neubau-3-mfh-jpg.jpg" alt="Neubau 3 MFH, Forchstrasse 11, 13, 15, 8703 Erlenbach"  class="vorschaubild" ></a>
+        <a href="//www.losys.ch/projekte/0/0/7/1/7120/bilder/basis/7120_1374506983_neubau-3-mfh-jpg.jpg" ng-repeat="bild in r.bilder.objektbilder.bild" class="ng-scope"><img style="width:45px;" ng-show="bild.url_thumbnail" src="//www.losys.ch/projekte/0/0/7/1/7120/bilder/fitted/w150-h100-7120_1374506983_neubau-3-mfh-jpg.jpg" alt="Neubau 3 MFH, Forchstrasse 11, 13, 15, 8703 Erlenbach"  class="vorschaubild" ></a>
+	
+	</div>
+	
+	
+</div>	
+
+	
+<div id="Footer">
+	<p><small>&copy; 2011 Code Computerlove Ltd - new media agency / digital marketing agency</small></p>
+
+	<div id="SocialLinks">
+	<a href="http://blog.codecomputerlove.com/"><img src="images/blogicon.png" width="32" height="32" alt="Blog" /></a>
+	<a href="http://www.twitter.com/computerlovers"><img src="images/twittericon.png" width="32" height="32" alt="Twitter" /></a>
+	<a href="http://www.facebook.com/CodeComputerlove"><img src="images/facebookicon.png" width="32" height="32" alt="Facebook" /></a>
+	<a href="http://www.flickr.com/photos/codecomputerlove"><img src="images/flickricon.png" width="32" height="32" alt="Flickr" /></a>
+</div>
+
+</body>
+</html>
