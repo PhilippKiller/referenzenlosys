@@ -18,7 +18,8 @@
 
         //infinite scrolling: add items when we reach the bottom while scrolling down
         $scope.myPagingFunction = function() {
-            $scope.items.referenzdaten.objekte.objekt = $scope.itemsAll.referenzdaten.objekte.objekt.slice(0,$scope.items.referenzdaten.objekte.objekt.length + 10);
+            //not working as expected: $scope.items.referenzdaten.objekte.objekt = $scope.itemsAll.referenzdaten.objekte.objekt.slice(0,$scope.items.referenzdaten.objekte.objekt.length + 10);
+            $scope.items.referenzdaten.objekte.objekt = $scope.itemsAll.referenzdaten.objekte.objekt.slice(0);
         };
 
         //show preloader when route changed
